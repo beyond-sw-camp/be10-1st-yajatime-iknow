@@ -2,11 +2,11 @@
 
 Provide a brief description of your project here. Explain the purpose or main functionality of the project.
 
-## Getting Started
+## Projects
 
 This section should provide instructions on how to get a copy of the project up and running on a local machine for development and testing purposes.
 
-### Prerequisites
+### 멤버
 
 List all the prerequisites, the things you need to install the software, and how to install them.
 
@@ -14,7 +14,7 @@ List all the prerequisites, the things you need to install the software, and how
 Give examples
 ```
 
-### Installing
+### 요구사항 명세서
 
 A step by step series of examples that tell you how to get a development environment running.
 
