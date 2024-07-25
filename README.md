@@ -1,5 +1,7 @@
 # I_Know
 
+![i_know]<img sre="(https://github.com/user-attachments/assets/df7c28aa-df8f-4ae5-b4ae-aa72e91cc403.png" width="200" height="400"/>
+
 Provide a brief description of your project here. Explain the purpose or main functionality of the project.
 
 ## Projects
