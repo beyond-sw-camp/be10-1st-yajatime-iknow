@@ -289,9 +289,9 @@
 관리자 기능
 </summary>
 
-    <details><summary>
-     회원 관리
-    </summary>
+<details><summary>
+ 회원 관리
+</summary>
 
 
 <details><summary> 
@@ -585,8 +585,24 @@ SELECT * FROM item;
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F03da76d6-c05b-412a-85b2-7b805b759303%2FUntitled.png?table=block&id=fed42ed2-9380-4aea-bea2-b2a1f4d86dde&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1b363cf0-0b12-4bbc-876c-80dd9d359f8e%2FUntitled.png?table=block&id=225af9bc-25b6-43a3-9914-a9f5bb69ae19&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
+
+
+
+
+
+*Write here!*
 </details>
+
+
+
+
+
 </details>
+
+
+
+
+
 
 --- 
 <details><summary> 회원 기능
@@ -623,11 +639,8 @@ SELECT * FROM item;
 *Write here!*
 </details>
 
-<details><summary> 신고 및 정지, 블라인드 기능
-</summary>
-
-*Write here!*
-</details>
+&emsp;<details><summary> 신고 및 정지, 블라인드 기능</summary>
+*Write here!*</details>
 
 
 
