@@ -21,8 +21,10 @@
     
 - 해당 제품은 발을 세척하는 용도로 사용되는 제품입니다. 하지만 해당 제품의 세척 능력이 뛰어나 발을 세척하는 용도 외에 화장실 청소, 주방 청소 등 다양한 용도로 사용되고 있습니다. 
 - 해당 제품처럼 주 사용 방법 뿐만 아니라 다양한 사용법과 정보들인 꿀팁을 공유하면서 일상 생활의 편안함과 새로운 정보를 제공하는 플랫폼 입니다.
+<br></br>
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7bda5c0c-545c-4f7b-b99b-be8858e5de74%2FUntitled.png?table=block&id=3531e824-2fb6-480f-868e-c452c52a4ea8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2' width="500" height="500">
 - 꿀팁, 꿀템에 관한 정보는 블로그, 유튜브, 인스타그램 등 다양한 채널에 분산되어 있습니다. 사용자는 원하는 정보를 찾기 위해 여러 플랫폼을 돌아다녀야 하며, 시간과 노력을 많이 소모하게 됩니다.
+<br></br>
 
 **I-KNOW 플랫폼에선 이용자들이 올린 꿀팁들을 편하게 모아 볼수 있고, 더하여 직접 팁을 요청하고 답변을 받을수 있어  원하는  정보를 보다 효율적으로 얻을 수 있습니다.**
 
@@ -352,17 +354,6 @@ write here
 </details>
 
  
-**<details><summary>💡프로젝트 사업성👍**
-</summary>
-
-1. 좋아요, 조회수 등 일정 기준을 측정하면 관리자는 팁에 뱃지를 제공합니다.1-1. 뱃지를 받은 팁은 프리미엄 팁으로 전환됩니다.
-2. 사용자는 프리미엄 팁을 구매한 ‘온’을 교환하여 질 좋은 정보를 열람할 수 있습니다.
-- “온”이 부족한 사용자는 “온”을 구매하여 정보를 열람할 수 있습니다.
-- 질 좋은 팁을 공유한 사용자에게는 “온”을 지급하여 다른 정보를 얻을 수 있습니다.
-
-*Write here!*
-</details>
-
 ---
 
 
@@ -371,34 +362,6 @@ write here
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
 --- 
-
-
-
-
-
-
-
-
-**<details><summary>💡요구사항 명세서**
-</summary>
-
-*Write here!*
-</details>
-
-
-**<details><summary>💡DB 설계문서**
-</summary>
-
-*Write here!*
-</details>
-
-**<details><summary>💡테이블 정의서**
-</summary>
-write here
-</details>
-
-
----
 
 
 **<details><summary>💡코드 시연**
