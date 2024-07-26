@@ -760,20 +760,26 @@ SELECT * FROM item;
 
 <details><summary>사용자 정지시 contents blind 처리 함수
 </summary>
+  
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9e1ea986-2ec6-456a-9f6c-76f076515469%2FUntitled.png?table=block&id=2c53b272-f490-44c0-95a6-46d9bd937e91&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 <details><summary>사용자 신고 insert문
 </summary>
+  
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Feb1750dd-2219-4b14-865b-592c4503da69%2FUntitled.png?table=block&id=b56f060e-b50a-4684-90b6-0abd8f142b78&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 <details><summary>실행 결과
 </summary>
 - 신고 전 users, questions 상태
+  
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0b3289e2-f2a5-4091-8ff0-3932b4907944%2FUntitled.png?table=block&id=12e2b490-8410-495a-8213-96521ffaaf14&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
 - 신고 후 users, questions 상태
+
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F443ab2f0-7660-442e-9cdb-d188497ceb6f%2FUntitled.png?table=block&id=6f6c30d8-f33d-49f6-b578-400e34ee8c48&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
 </details>
 
         
