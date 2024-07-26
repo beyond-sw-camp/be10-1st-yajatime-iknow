@@ -30,4 +30,10 @@ DELIMITER ;
 
 -- 4. 질문글 삭제.
 DELETE FROM questions
-WHERE question_title = '제목';
+WHERE question_title = '최고의 프로그래밍 언어는?';
+-- 
+-- -- (답변이 채택된 질문을 삭제하려는 경우)
+-- SET foreign_key_checks = 0;
+-- DELETE FROM questions
+-- WHERE question_title = '최고의 프로그래밍 언어는?';
+-- SET foreign_key_checks = 1; 
