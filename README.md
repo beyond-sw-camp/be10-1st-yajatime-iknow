@@ -289,9 +289,9 @@
 관리자 기능
 </summary>
 
-<details><summary>
- 회원 관리
-</summary>
+    <details><summary>
+     회원 관리
+    </summary>
 
 
 <details><summary> 
