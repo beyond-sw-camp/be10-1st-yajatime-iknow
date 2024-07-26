@@ -80,27 +80,7 @@ WHERE
         WHERE answer_num = 1
     );
 
---  기존 첨부파일 삭제 (필요한 경우)
-DELETE FROM attachment
-WHERE 
-    file_num = 1
-    AND answer_num = 1;
-
--- 새로운 첨부파일 추가 (필요한 경우)
-INSERT INTO attachment (file_name, file_size, answer_num)
-VALUES ('new_file.jpg', 1024, 1);
-
--- 기존 첨부파일 수정 (필요한 경우)
-UPDATE attachment
-SET 
-    file_name = 'updated_file.jpg',
-    file_size = 2048
-WHERE 
-    file_num = 2
-    AND answer_num = 1;
-
 COMMIT;
-
 
 
 -- 5. 답변글 채택 기능.
