@@ -5,7 +5,7 @@ WHERE tip_post_title LIKE "%여행%";
 
 -- 2-2. 팁 게시글 좋아요 순으로 정렬하여 조회
 SELECT 
-		 tp.tip_post_num, 
+	   tp.tip_post_num, 
        tp.tip_post_title, 
        tp.tip_post_content, 
        tp.create_date, 
@@ -18,7 +18,7 @@ LEFT JOIN likes_contents AS lc ON tp.tip_post_num = lc.tip_post_num
 LEFT JOIN category AS c ON tp.category_num = c.category_num 
 LEFT JOIN users AS u ON tp.user_num = u.user_num
 GROUP BY 
-			tp.tip_post_num, 
+		 tp.tip_post_num, 
          tp.tip_post_title, 
          tp.tip_post_content, 
          tp.create_date, 
