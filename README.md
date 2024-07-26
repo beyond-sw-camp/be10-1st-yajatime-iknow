@@ -749,9 +749,9 @@ SELECT * FROM item;
 </summary>
 
 - 기능 설명
-    1. 게시글을 통해 사용자의 신고 (당한)횟수가 누적됨.
-    2. 이때 해당 사용자의 신고(당한)횟수가  정지 기준만큼 누적되면 해당 사용자를 기준에 맞는 일수 만큼 정지시킴.
-    3. 사용자가 정지되면, 해당 사용자가 작성한 모든 컨텐츠는 blind처리 됨.
+  1. 게시글을 통해 사용자의 신고 (당한)횟수가 누적됨.
+  2. 이때 해당 사용자의 신고(당한)횟수가  정지 기준만큼 누적되면 해당 사용자를 기준에 맞는 일수 만큼 정지시킴.
+  3. 사용자가 정지되면, 해당 사용자가 작성한 모든 컨텐츠는 blind처리 됨.
 - 코드
 <details><summary>사용자 신고 누적 및 case별 정지 상태 변환 함수
 </summary>
@@ -773,12 +773,10 @@ SELECT * FROM item;
 <details><summary>실행 결과
 </summary>
 - 신고 전 users, questions 상태
-  
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0b3289e2-f2a5-4091-8ff0-3932b4907944%2FUntitled.png?table=block&id=12e2b490-8410-495a-8213-96521ffaaf14&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fc1d9cf05-5a9e-464d-86aa-85b64b0cbd8b%2FUntitled.png?table=block&id=dabf1ecd-55f6-4858-9ca0-d584b1659b3f&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 
 - 신고 후 users, questions 상태
-
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F443ab2f0-7660-442e-9cdb-d188497ceb6f%2FUntitled.png?table=block&id=6f6c30d8-f33d-49f6-b578-400e34ee8c48&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F06219892-ce7b-42f2-b786-35b81eeea95f%2FUntitled.png?table=block&id=8f7fbd61-a22c-4aca-b4e1-55479fd35eb7&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 
 </details>
 
