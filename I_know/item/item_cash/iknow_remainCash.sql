@@ -1,14 +1,12 @@
 -- 아이템 결제 후, 남은 값 도출 쿼리
 -- 결제 후 남은 온 금액
 SELECT 
-    B.item_name,
-    B.user_num,
-    C.user_on,
-    -- B.item_price,
-    C.user_on - B.item_price AS remaining_on
+    c.user_num,
+    c.on_use,
+    i.item_name,
+    i.item_price,
+    FLOOR(c.on_use - i.item_price) AS remain_on
 FROM 
-    item_equipcategory A
+    credit c
 JOIN 
-    item B ON A.category_num = B.category_num
-JOIN 
-    users C ON B.user_num = C.user_num;
+    item i ON c.item_num = i.item_num;
