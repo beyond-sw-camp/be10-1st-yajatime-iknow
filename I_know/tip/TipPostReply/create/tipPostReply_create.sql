@@ -20,13 +20,13 @@ END //
 DELIMITER ;
 
 -- 1. 팁게시글 댓글 생성(Create)
--- 정상적으로 댓글 생성 
-INSERT INTO tip_reply (tip_reply_num, tip_reply_content, create_date, update_date, user_num, tip_post_num)
+-- 정상적으로 댓글 생성
+INSERT INTO tip_reply (tip_reply_content, create_date, update_date, user_num, tip_post_num, is_blinded)
 VALUES 
-(14, '다른 다이어트 팁도 있나요?', '2023-12-01 12:00:00', NULL, 2, 1);
+('다른 다이어트 팁도 있나요?', '2023-12-01 12:00:00', NULL, 2, 1, FALSE);
 
 -- 댓글 본문 내용이 공백일 경우 에러코드 발생
-INSERT INTO tip_reply (tip_reply_num, tip_reply_content, create_date, update_date, user_num, tip_post_num)
+INSERT INTO tip_reply (tip_reply_content, create_date, update_date, user_num, tip_post_num, is_blinded)
 VALUES 
-(14, '  ', '2023-12-01 12:00:00', NULL, 2, 1);
+(' ', '2023-12-01 12:00:00', NULL, 3, 2, FALSE);
 SELECT * FROM tip_reply;

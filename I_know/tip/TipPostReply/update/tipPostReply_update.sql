@@ -31,6 +31,6 @@ DELIMITER ;
 
 UPDATE tip_reply
    SET tip_reply_content = '프랑스 요리 만들어보기'
- WHERE tip_reply_num = 13;
+ WHERE tip_reply_num = 6;
  
 SELECT * FROM tip_reply;

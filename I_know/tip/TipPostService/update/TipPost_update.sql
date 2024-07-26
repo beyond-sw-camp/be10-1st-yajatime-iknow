@@ -32,9 +32,14 @@ END //
 
 DELIMITER ;
 
-
+-- 정상적으로 게시글이 수정된 경우
 UPDATE tip_post
    SET tip_post_title = 'THE WORLD BEST COFFEE SHOP'
+WHERE tip_post_num = 6;
+
+-- 게시글에 제목 및 내용이 공백인 경우
+UPDATE tip_post
+   SET tip_post_title = ' '
 WHERE tip_post_num = 6;
 
 
