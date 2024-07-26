@@ -24,5 +24,3 @@ DELIMITER ;
 -- 4. 답변글 삭제.
 DELETE FROM answers
 WHERE answer_title = '제목';
-
-SELECT * from answers;

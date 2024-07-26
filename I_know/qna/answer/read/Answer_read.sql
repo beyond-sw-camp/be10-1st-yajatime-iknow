@@ -3,4 +3,4 @@
 SELECT a.answer_title, a.answer_content, a.create_date
 FROM answers a
 JOIN questions q ON a.question_num = q.question_num
-WHERE q.question_title = '일본 여행';
+WHERE q.question_title = '일본 여행' AND a.is_blinded = FALSE ;
