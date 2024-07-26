@@ -1,3 +1,10 @@
+
+<details><summary> ## 💡 프로젝트 기획💡
+</summary>
+
+*Write here!*
+</details>
+
 # 💡 I_Know💡
 <img src="https://github.com/user-attachments/assets/bf3aba34-18b6-47da-a5fa-1626d6849db1" width="300" height="300">
 
