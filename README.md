@@ -18,14 +18,14 @@
 
 **[발을 씻자 다양한 사용 실제 사례]**
 <img src="https://github.com/user-attachments/assets/61a72db0-9dcd-4a01-8fe3-3002e1540323" width="500" height="500">
-    
+<br></br>
 - 해당 제품은 발을 세척하는 용도로 사용되는 제품입니다. 하지만 해당 제품의 세척 능력이 뛰어나 발을 세척하는 용도 외에 화장실 청소, 주방 청소 등 다양한 용도로 사용되고 있습니다. 
 - 해당 제품처럼 주 사용 방법 뿐만 아니라 다양한 사용법과 정보들인 꿀팁을 공유하면서 일상 생활의 편안함과 새로운 정보를 제공하는 플랫폼 입니다.
 <br></br>
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7bda5c0c-545c-4f7b-b99b-be8858e5de74%2FUntitled.png?table=block&id=3531e824-2fb6-480f-868e-c452c52a4ea8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2' width="500" height="500">
+<br></br>
 - 꿀팁, 꿀템에 관한 정보는 블로그, 유튜브, 인스타그램 등 다양한 채널에 분산되어 있습니다. 사용자는 원하는 정보를 찾기 위해 여러 플랫폼을 돌아다녀야 하며, 시간과 노력을 많이 소모하게 됩니다.
 <br></br>
-
 **I-KNOW 플랫폼에선 이용자들이 올린 꿀팁들을 편하게 모아 볼수 있고, 더하여 직접 팁을 요청하고 답변을 받을수 있어  원하는  정보를 보다 효율적으로 얻을 수 있습니다.**
 
 </details>
@@ -375,7 +375,7 @@ write here
 </summary>
 
 
-<details><summary>1-1-1) 회원등록</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4a26f2eb-dd5f-43dc-81c0-75877a187c31%2FUntitled.png?table=block&id=b280c94c-bd05-46d3-979b-200cd2156597&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<details><summary>회원등록</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4a26f2eb-dd5f-43dc-81c0-75877a187c31%2FUntitled.png?table=block&id=b280c94c-bd05-46d3-979b-200cd2156597&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 
@@ -745,13 +745,41 @@ SELECT * FROM item;
 </details>
 
 
-
-
 <details><summary>신고 및 정지, 블라인드 기능
 </summary>
 
-write here
+- 기능 설명
+    1. 게시글을 통해 사용자의 신고 (당한)횟수가 누적됨.
+    2. 이때 해당 사용자의 신고(당한)횟수가  정지 기준만큼 누적되면 해당 사용자를 기준에 맞는 일수 만큼 정지시킴.
+    3. 사용자가 정지되면, 해당 사용자가 작성한 모든 컨텐츠는 blind처리 됨.
+- 코드
+<details><summary>사용자 신고 누적 및 case별 정지 상태 변환 함수
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F3f2ec848-a2dc-49c4-a846-b1c72478460a%2FUntitled.png?table=block&id=789df5eb-ffd9-4228-89c5-527db7184827&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
+
+<details><summary>사용자 정지시 contents blind 처리 함수
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9e1ea986-2ec6-456a-9f6c-76f076515469%2FUntitled.png?table=block&id=2c53b272-f490-44c0-95a6-46d9bd937e91&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>사용자 신고 insert문
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Feb1750dd-2219-4b14-865b-592c4503da69%2FUntitled.png?table=block&id=b56f060e-b50a-4684-90b6-0abd8f142b78&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>실행 결과
+</summary>
+- 신고 전 users, questions 상태
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0b3289e2-f2a5-4091-8ff0-3932b4907944%2FUntitled.png?table=block&id=12e2b490-8410-495a-8213-96521ffaaf14&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+- 신고 후 users, questions 상태
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F443ab2f0-7660-442e-9cdb-d188497ceb6f%2FUntitled.png?table=block&id=6f6c30d8-f33d-49f6-b578-400e34ee8c48&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+        
+
+</details>
+
 
 ---
 <details><summary>메인 페이지
