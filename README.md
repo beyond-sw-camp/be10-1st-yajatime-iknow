@@ -11,36 +11,345 @@
 ## 💡프로젝트 기획
 
 
- **<details><summary> 💡프로젝트 소개❓**
-</summary>
-- **I_Know**는 **나만 아는 생활속 꿀팁**에 대한 정보나 방법들을 다양하게 공유하는 서비스입니다. 
-- 사용자는 생활 속 꿀팁을 공유하며 서비스 내의 화폐인 <u>“온”</u>(100의 옛 말)을 통해 화폐를 얻을 수 있습니다. 
-- “온”을 얻은 사용자는 생활 속 꿀팁 중 조회수, 좋아요 수, 공식 마크를 받은 질 좋은 꿀팁을 구매해 다양한 정보를 얻을 수 있습니다. 
-- 해당 프로젝트를 통해 사용자는 일상 생활 속 유용한 정보를 얻어 적용함으로써 삶의 질을 향상할 수 있으며, 나만 아는 꿀팁을 공유해 “온”을 얻음으로써 성취감을 느낄 수 있습니다.
-</details>
-
-
 **<details><summary>💡 프로젝트 필요성🙋‍♀️**
 </summary>
-- ‘I_Know’는 일상 생활에서 사용하는 물건들을 사용할 때, 나만 아는 다른 사용법이나 정보들을 공유하는 플랫폼입니다.
+- ‘I_Know’는 일상 생활에서 사용하는 물건들을 사용할 때, 나만 아는 다른 사용법이나 정보들을 공유 하는 플랫폼입니다.
+<br></br>
 
-#### [발을 씻자 다양한 사용 실제 사례]
+**[발을 씻자 다양한 사용 실제 사례]**
 <img src="https://github.com/user-attachments/assets/61a72db0-9dcd-4a01-8fe3-3002e1540323" width="500" height="500">
     
 - 해당 제품은 발을 세척하는 용도로 사용되는 제품입니다. 하지만 해당 제품의 세척 능력이 뛰어나 발을 세척하는 용도 외에 화장실 청소, 주방 청소 등 다양한 용도로 사용되고 있습니다. 
 - 해당 제품처럼 주 사용 방법 뿐만 아니라 다양한 사용법과 정보들인 꿀팁을 공유하면서 일상 생활의 편안함과 새로운 정보를 제공하는 플랫폼 입니다.
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7bda5c0c-545c-4f7b-b99b-be8858e5de74%2FUntitled.png?table=block&id=3531e824-2fb6-480f-868e-c452c52a4ea8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2' width="500" height="500">
+- 꿀팁, 꿀템에 관한 정보는 블로그, 유튜브, 인스타그램 등 다양한 채널에 분산되어 있습니다. 사용자는 원하는 정보를 찾기 위해 여러 플랫폼을 돌아다녀야 하며, 시간과 노력을 많이 소모하게 됩니다.
+
+**I-KNOW 플랫폼에선 이용자들이 올린 꿀팁들을 편하게 모아 볼수 있고, 더하여 직접 팁을 요청하고 답변을 받을수 있어  원하는  정보를 보다 효율적으로 얻을 수 있습니다.**
+
 </details>
+
+
+ **<details><summary> 💡프로젝트 소개❓**
+</summary>
+
+- I_Know는 나만 아는 생활속 꿀팁에 대한 정보나 방법들을 다양하게 공유하는 서비스입니다. 사용자는 생활 속 꿀팁을 공유하며 서비스 내의 화폐인 <u>“온”</u>(100의 옛 말)을 통해 화폐를 얻을 수 있습니다. 
+- “온”을 얻은 사용자는 생활 속 꿀팁 중 조회수, 좋아요 수, 공식 마크를 받은 질 좋은 꿀팁을 구매해 다양한 정보를 얻을 수 있습니다. 
+- 해당 프로젝트를 통해 사용자는 일상 생활 속 유용한 정보를 얻어 적용함으로써 삶의 질을 향상할 수 있으며, 나만 아는 꿀팁을 공유해 “온”을 얻음으로써 성취감을 느낄 수 있습니다.
+
+<details><summary>시스템 아키텍처
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8ee8c66d-28fb-4511-bafe-d09b8935a552%2FUntitled.png?table=block&id=5e1a16d1-c987-4bdc-9997-efb0ae2025b9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>서비스 플로우 차트
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff80f575d-e4fe-4fcc-b28d-65764445a540%2FUntitled.png?table=block&id=318c22f5-df0f-412c-8ae5-5673ec2cc205&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+</details>
+
+
+<details><summary> 요구사항 명세서
+</summary>
+
+*Write here!*
+</details>
+
+</details>
+
+
 
 
 **<details><summary>💡프로젝트 주요 기능🛠**
 </summary>
 
 1. 정보 공유
-2. 고객 관리
-3. 문의 & 인증
-4. 자세한 팁 질문 게시판 
+- 생활에서 유용한 정보를 등록할 수 있습니다.
+- 필요한 정보를 검색하여 조회할 수 있습니다.
+- 좋아요 개수, 조회수 등 효과적인 팁에는 관리자가 인증 뱃지를 부여하여 프리미엄 팁으로 전환됩니다.
+- 일반 팁에서 프리미엄 팁으로 전환될 경우 사용자에게 “온”을 부여합니다.
+- 프리미엄 팁으로 전환된 팁은 사용자가 “온”으로 거래하여 정보를 열람할 수 있습니다.
+2. 자세한 팁 질문 게판
+- 원하는 팁을 얻고 싶은 경우 “온”을 내걸어 질문을 할 수 있습니다.
+- 질문 게시판에 적절한 대답을 할 경우 내걸은 “온”을 받을 수 있습니다.
+3. 아이템
+- 서비스의 내부 화폐인 “온”을 통해 아이템을 구매할 수 있습니다.
+- 구매한 아이템을 장착해 캐릭터를 꾸밀 수 있습니다.
+4. 고객 관리
+- 관리자가 고객 정보를 관리할 수 있습니다.
 </details>
 
+
+**<details><summary>💡ERD 다이어그램🎲**
+</summary>
+
+- 논리 모델링
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F89ccd3f3-e57b-44c3-84e8-9aaf81e7ab34%2FUntitled.png?table=block&id=ccdf4402-5682-44ef-b922-d6bf68581cb9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+- 물리 모델링
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd7e2ab4e-3423-47ba-93e0-c25363fc778c%2FUntitled.png?table=block&id=dba2ac9d-3b1d-4e05-930f-f1dc8583bf3d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+**<details><summary>💡테이블 정의서🎃**
+</summary>
+
+<details><summary> 테이블 생성 구문(DDL 구문)
+</summary>
+
+```
+SET FOREIGN_KEY_CHECKS = 0;
+
+  -- 모든 테이블 이름을 가져와서 DROP TABLE 명령어를 생성
+SET @tables = NULL;
+SELECT GROUP_CONCAT(table_name) INTO @tables
+FROM information_schema.tables
+WHERE table_schema = 'i_know';
+
+-- 테이블 삭제
+SET @tables = CONCAT('DROP TABLE ', @tables);
+PREPARE stmt FROM @tables;
+EXECUTE stmt;
+DEALLOCATE PREPARE stmt;
+
+SET FOREIGN_KEY_CHECKS = 1;
+
+-- 테이블 생성 ---------------------------------------
+CREATE TABLE users
+(
+    user_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '회원번호',
+    user_id    VARCHAR(50) NOT NULL COMMENT '아이디',
+    user_pw    VARCHAR(50) NOT NULL COMMENT '비밀번호',
+    user_email    VARCHAR(50) NOT NULL COMMENT '이메일',
+    user_interest    VARCHAR(255) NOT NULL COMMENT '관심사',
+    user_birth    DATE NOT NULL COMMENT '생년월일',
+    user_gender    VARCHAR(50) NOT NULL COMMENT '성별',
+    user_auth    VARCHAR(50) NOT NULL COMMENT '회원상태',
+    user_role VARCHAR(50) NOT NULL COMMENT '회원권한',
+    user_on    INT NOT NULL COMMENT '온',
+    user_stopcnt int NULL COMMENT '정지일수', 
+    user_reportcnt INT NOT NULL DEFAULT 0 COMMENT '신고당한횟수',
+ PRIMARY KEY ( user_num )
+) COMMENT = '회원';
+
+CREATE TABLE category
+(
+    category_name    VARCHAR(50) NOT NULL COMMENT '카테고리명',
+    category_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '카테고리 번호',
+ PRIMARY KEY ( category_num )
+) COMMENT = '카테고리';
+
+CREATE TABLE questions
+(
+    question_num    INT NOT NULL AUTO_INCREMENT COMMENT '질문글 번호',
+    question_title    VARCHAR(50) NOT NULL COMMENT '질문글 제목',
+    question_content    longtext NOT NULL COMMENT '질문글 내용',
+    create_date    DATETIME NOT NULL COMMENT '작성일시',
+    update_date    DATETIME COMMENT '수정일시',
+    on_count    INT NOT NULL COMMENT '온개수',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    category_num    INT NOT NULL COMMENT '카테고리 번호',
+    is_blinded BOOLEAN NOT NULL default false COMMENT '블라인드여부',
+ 
+ PRIMARY KEY ( question_num ) ,
+ FOREIGN KEY (category_num) references category (category_num) ,
+ FOREIGN KEY (user_num) references users (user_num)
+) COMMENT = 'QnA 질문글';
+
+
+CREATE TABLE answers
+(
+    answer_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '답변글 번호',
+    answer_title    VARCHAR(50) NOT NULL COMMENT '질문글 제목',
+    answer_content    longtext NOT NULL COMMENT '게시글 내용',
+    create_date    DATETIME NOT NULL COMMENT '작성일시',
+    update_date    DATETIME COMMENT '수정일시',
+    is_chosen    BOOLEAN not null default false COMMENT '채택여부',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    question_num    INT NOT NULL COMMENT '질문글 번호',
+    is_blinded BOOLEAN NOT NULL default false COMMENT '블라인드여부',
+    
+ PRIMARY KEY ( answer_num ),
+ foreign key (user_num) references users (user_num),
+ foreign key (question_num) references questions(question_num)
+) COMMENT = 'QnA 답변글';
+
+
+CREATE TABLE tip_post
+(
+    tip_post_num    INT AUTO_INCREMENT PRIMARY KEY 
+ COMMENT '팁게시글 번호',
+    tip_post_title    VARCHAR(50) NOT NULL COMMENT '게시글 제목',
+    tip_post_content    longtext NOT NULL COMMENT '게시글 내용',
+    create_date    DATETIME NOT NULL COMMENT '작성일시',
+    update_date    DATETIME  COMMENT '수정일시',
+    user_num    INT not null COMMENT '회원번호',
+    category_num    INT NOT NULL COMMENT '카테고리 번호',
+    is_blinded BOOLEAN NOT NULL default false COMMENT '블라인드여부',
+    view_count INT NOT NULL DEFAULT 0 COMMENT '조회수',
+ 
+ FOREIGN KEY (user_num) references users (user_num) ,
+ FOREIGN KEY (category_num) references category (category_num)
+) COMMENT = 'Tip 게시글';
+
+
+
+CREATE TABLE tip_reply
+(
+    tip_reply_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '팁게시글 댓글 번호',
+    tip_reply_content    longtext NOT NULL COMMENT '팁게시글 댓글 내용',
+    create_date    DATETIME NOT NULL COMMENT '작성일시',
+    update_date    DATETIME COMMENT '수정일시',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    tip_post_num    INT not null COMMENT '팁게시글 번호',
+    is_blinded BOOLEAN NOT NULL default false COMMENT '블라인드여부',
+ PRIMARY KEY ( tip_reply_num ) , 
+ FOREIGN KEY ( user_num) references users(user_num) ,
+ FOREIGN KEY ( tip_post_num) references tip_post(tip_post_num)
+) COMMENT = 'TIP 댓글';
+
+
+CREATE TABLE attachment
+(
+    file_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '파일번호',
+    file_name    VARCHAR(255) NOT NULL COMMENT '파일명',
+    file_size    INT NOT NULL COMMENT '파일크기',
+    question_num    INT  COMMENT '질문글 번호',
+    answer_num    INT  COMMENT '답변글 번호',
+    tip_reply_num INT  COMMENT '팁게시글 댓글 번호',
+    tip_post_num    INT COMMENT '팁게시글 번호',
+ PRIMARY KEY ( file_num ),
+ FOREIGN KEY (question_num) references questions(question_num),
+ FOREIGN KEY (answer_num) references answers(answer_num),
+ FOREIGN KEY (tip_post_num) REFERENCES tip_post(tip_post_num),
+ FOREIGN KEY (tip_reply_num) REFERENCEs tip_reply(tip_reply_num)
+) COMMENT = '첨부파일';
+
+
+CREATE TABLE item
+(
+    item_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '아이템 코드',
+    item_name    VARCHAR(50) NOT NULL COMMENT '아이템명',
+    item_price    INT NOT NULL COMMENT '가격',
+    category_num    INT NOT NULL COMMENT '카테고리 코드',
+ PRIMARY KEY ( item_num ),
+ FOREIGN KEY (category_num) references category (category_num)
+) COMMENT = '아이템';
+
+
+CREATE TABLE cash
+(
+    cash_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '온 충전 코드',
+    cash_type    VARCHAR(30) NOT NULL COMMENT '결제타입',
+    cash_price    INT NOT NULL COMMENT '결제금액',
+    cash_detail    VARCHAR(30) NOT NULL COMMENT '결제타입정보',
+    user_num    INT NOT NULL COMMENT '회원번호',
+ PRIMARY KEY ( cash_num ),
+ FOREIGN KEY (user_num) references users (user_num)
+) COMMENT = '온충전(현금 -> 온)';
+
+CREATE TABLE item_box
+(
+    item_num    INT NOT NULL COMMENT '아이템 코드',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    item_equip    boolean NOT NULL COMMENT '장착 유무',
+ 
+ FOREIGN KEY (user_num) references users (user_num),
+ FOREIGN KEY (item_num) references item (item_num) ,
+ PRIMARY KEY ( item_num, user_num )
+) COMMENT = '아이템 보관함';
+
+-- ALTER TABLE item_box
+--  ADD CONSTRAINT item_box_PK PRIMARY (item_num,user_num );
+
+
+CREATE TABLE item_equipcategory
+(
+    category_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '카테고리 코드',
+    category_clothes    VARCHAR(50) NOT NULL COMMENT '착용 위치',
+ PRIMARY KEY (category_num ) ,
+ FOREIGN KEY (category_num) references category (category_num)
+) COMMENT = '아이템 장착 카테고리_상점';
+
+
+CREATE TABLE credit
+(
+    on_use   INT NOT NULL COMMENT '온 사용 갯수',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    buy_num INT NOT NULL COMMENT '구매번호',
+    item_num INT NOT NULL COMMENT '아이템코드',
+ PRIMARY KEY ( buy_num ) ,
+ FOREIGN KEY ( user_num ) references users (user_num),
+ FOREIGN KEY ( item_num ) REFERENCES item (item_num)
+) COMMENT = '아이템 구매내역';
+
+
+CREATE TABLE likes_contents
+(
+    likes_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '좋아요 번호',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    tip_post_num    INT COMMENT '팁게시글 번호',
+    tip_reply_num    INT COMMENT '팁게시글 댓글 번호',
+    create_date DATETIME NOT NULL COMMENT '좋아요',
+ PRIMARY KEY ( likes_num ),
+ FOREIGN KEY ( user_num) references users(user_num),
+ FOREIGN KEY ( tip_post_num) references tip_post(tip_post_num),
+ FOREIGN KEY ( tip_reply_num) references tip_reply(tip_reply_num)
+) COMMENT = 'TIP 좋아요';
+
+
+CREATE TABLE scrap
+(
+    scrap_date    DATETIME NOT NULL COMMENT '스크랩 일시',
+    scrap_num    INT NOT NULL AUTO_INCREMENT COMMENT '스크랩 번호',
+    user_num    INT NOT NULL COMMENT '회원번호',
+    tip_post_num    INT NOT NULL COMMENT '팁게시글 번호',
+ PRIMARY KEY ( scrap_num ) ,
+ FOREIGN KEY ( tip_post_num) references tip_post(tip_post_num) ,
+ FOREIGN KEY ( user_num) references users(user_num)
+ 
+) COMMENT = '스크랩한 글';
+
+
+CREATE TABLE report_record
+(
+    report_num    INT NOT NULL AUTO_INCREMENT
+ COMMENT '신고번호',
+    report_user_num    INT NOT NULL COMMENT '신고대상자번호',
+    report_date    DATE NOT NULL COMMENT '신고일시',
+    user_num    INT NOT NULL COMMENT '신고자번호',
+    question_num    INT COMMENT '질문글 번호',
+    report_content    VARCHAR(255) NOT NULL COMMENT '신고 사유',
+    answer_num    INT COMMENT '답변글 번호',
+    tip_reply_num    INT COMMENT '팁게시글 댓글 번호',
+    tip_post_num    INT COMMENT '팁게시글 번호',
+ PRIMARY KEY ( report_num ),
+ FOREIGN KEY ( user_num) references users(user_num),
+ FOREIGN KEY ( question_num) references questions (question_num),
+ FOREIGN KEY ( tip_reply_num) references tip_reply(tip_reply_num),
+ FOREIGN KEY ( tip_post_num) references tip_post(tip_post_num)
+) COMMENT = '신고기록';
+
+```
+</details>
+
+<details><summary> 테이블 정의서(구글시트 링크 첨부 예정)
+</summary>
+write here
+</details>
+
+</details>
 
  
 **<details><summary>💡프로젝트 사업성👍**
@@ -59,11 +368,7 @@
 
 ## 💡기술스택
 
-
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">  
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
 --- 
 
@@ -89,195 +394,9 @@
 
 **<details><summary>💡테이블 정의서**
 </summary>
-
-*Write here!*
+write here
 </details>
 
-
-<details><summary>회원 테이블-user
-</summary>
-
-- user_num: 회원의 고유한 번호 저장
-- user_id: 회원의 아이디 저장
-- user_email: 회원의 이메일 주소 저장
-- user_interest: 회원의 관심사 저장
-- user_birth: 회원의 생년월일 저장
-- user_gender: 회원의 성별 정보 저장
-- user_auth: 회원의 상태 정보 저장(정상, 정지)
-- user_role: 회원의 권한 상태 정보(일반유저, 관리자)
-- user_on: 회원의 온(화폐) 보유 정보
-- user_reportcnt: 회원이 신고 당한 횟수 저장
-- user_stopcnt: 회원의 정지 일 수 정보 저장(7일, 30일, 영구)
-
-![회원테이블](https://github.com/user-attachments/assets/dd152258-2f53-4f8a-bbd8-ca8ce79534c5)
-
-</details>
-
-<details><summary>신고기록 테이블-report_record
-</summary>
-
-- report_num: 신고의 고유한 번호 저장
-- report_user_num: 신고의 대상이 된 회원 번호 저장
-- report_date: 신고한 날짜와 시간 저장
-- report_content: 신고한 사유 저장
-- user_num: 신고를 한 회원의 번호 저장
-- question_num: 신고한 질문 글 번호 저장 (NULL 값 허용)
-- answer_num: 신고한 답변글 번호 저장 (NULL 값 허용)
-- tip_reply_num: 신고한 팁 게시글 댓글 번호 저장 (NULL 값 허용)
-- tip_post_num: 신고한 팁 게시글 번호 저장 (NULL 값 허용)
-
-![신고기록테이블](https://github.com/user-attachments/assets/460e3f7b-6d67-4051-8e57-f9a522437b81)
-</details>
-
-<details><summary>QnA 질문 글 테이블 - questions
-</summary>
-
-- question_num: 질문 글의 고유 번호 저장
-- category_num: 질문 글의 카테고리 번호 저장
-- user_num: 질문 글을 작성한 회원번호 저장
-- question_title: 질문 글의 제목 저장
-- question_content: 작성한 질문 글의 내용 저장
-- create_date: 질문 글을 작성한 날짜와 시간 저장
-- update_date: 질문 글을 수정한 날짜와 시간 저장
-- on_count: 질문자가 내건 온(화폐)의 수 저장
-- is_blinded: 질문 글의 신고로 인한 블라인드 여부 (true, false)
-
-![QnA질문글테이블](https://github.com/user-attachments/assets/9fc4a985-25de-41a6-82bb-f38c8380db81)
-
-</details>
-
-<details><summary>QnA 답변 글 테이블 - answers
-</summary>
-
-- answer_num: 답변 글의 고유한 번호 저장
-- user_num: 답변을 작성한 회원의 번호 저장
-- question_num: 답변을 작성한 질문 글의 번호 저장
-- answer_content: 답변 글의 내용 저장
-- create_date: 답변 글을 작성한 날짜와 시간 저장
-- update_date: 답변 글을 수정한 날짜와 시간 저장
-- is_chosen: 질문자의 답변 글 채택 여부 저장
-- is_blinded: 답변 글의 신고로 인한 블라인드 여부 (true, false)
-
-![QnA답변글테이블](https://github.com/user-attachments/assets/cbf8f22c-5287-4e9a-ac16-03c29278cf2f)
-
-</details>
-<details><summary>첨부파일 테이블 - attachment
-</summary>
-
-- file_id: 첨부한 파일의 고유 번호 저장
-- question_num: 파일이 첨부 된 질문 글 번호 저장
-- answer_num: 파일이 첨부 된 답변 글 번호 저장
-- tip_post_num: 파일이 첨부된 팁 게시글 번호 저장
-- tip_reply_num: 파일이 첨부된 팁 게시글 댓글 번호 저장
-- file_name: 첨부된 파일이 이름 저장
-- file_size: 첨부된 파일의 크기 저장
-
-![첨부파일테이블](https://github.com/user-attachments/assets/1022d457-bd38-4c0a-ac2b-52a835304c24)
-
-</details>
-<details><summary>TIP 게시글 테이블 - tip_post
-</summary>
-
-- tip_post_num: 작성한 팁 게시글의 고유한 번호 저장
-- category_num: 팁 게시글의 카테고리 번호 저장
-- user_num: 팁 게시글을 작성한 회원번호 저장
-- tip_post_title: 팁 게시글의 제목 저장
-- tip_post_content: 팁 게시글의 내용 저장
-- create_date: 팁 게시글 작성 날짜와 시간 저장
-- update_date: 팁 게시글 수정 날짜와 시간 저장
-- is_blinded: 작성한 팁 게시글의 신고로 인한 블라인드 여부 (true, false)
-- view_count: 팁 게시글의 조회수 저장
-
-![tip게시글테이블](https://github.com/user-attachments/assets/18a65a94-f90c-44d0-b44c-24ecd78b9306)
-</details>
-<details><summary>TIP 댓글 테이블 - tip_reply
-</summary>
-
-- tip_reply_num: 팁 게시글 댓글의 고유 번호 저장
-- user_num: 팁 게시글에 대한 댓글을 작성한 회원 번호 저장
-- tip_post_num: 팁 댓글을 작성한 TIP 게시글 번호 저장
-- tip_reply_content: 팁 게시글 댓글 내용 저장
-- create_date: 댓글을 작성한 날짜와 시간 저장
-- update_date: 댓글을 수정한 날짜와 시간 저장
-
-![tip댓글테이블](https://github.com/user-attachments/assets/0c3ecc82-a8d5-4887-bc1e-f4b0c7c57512)
-
-</details>
-<details><summary>카테고리 테이블 - category
-</summary>
-
-- category_num: 카테고리의 고유 번호 저장
-- category_name: 카테고리의 이름 저장
-
-![카테고리테이블](https://github.com/user-attachments/assets/be6e7215-8c84-4df8-ab72-845538e9e0b6)
-
-</details>
-<details><summary>TIP 좋아요 테이블 - like_contents
-</summary>
-
-- likes_num: 좋아요의 고유한 번호 저장
-- user_num: 좋아요를 한 회원의 번호 저장
-- tip_reply_num: 좋아요를 한 팁 게시글 댓글의 번호 저장
-- tip_post_num: 좋아요를 한 게시글의 번호 저장
-- create_date: 좋아요를 한 날짜와 시간 저장
-
-![tip좋아요테이블](https://github.com/user-attachments/assets/df759c8b-4a68-4582-b291-0edd5f3e191f)
-
-</details>
-<details><summary>스크랩한 글 테이블 - scrap
-</summary>
-
-- scrap_num: 스크랩 한 글의 고유 번호 저장
-- tip_post_num: 스트랩한 게시글 번호 저장
-- user_num: 스크랩을 한 회원 번호 저장
-- scrap_date: 스크랩 한 날짜와 시간 저장
-
-![스크랩한글테이블](https://github.com/user-attachments/assets/3f2f0ed7-f719-4ddc-bdfc-324e315de509)
-
-</details>
-<details><summary>아이템 구매 내역 테이블 - credit
-</summary>
-
-- buy_num: 구매의 고유 번호 저장
-- user_num: 구매한 회원 번호 저장
-- item_num: 구매한 아이템 코드 저장
-- on_use: 아이템을 구매하는데 사용한 온(화폐)의 수 저장
-
-
-![아이템구매내역테이블](https://github.com/user-attachments/assets/fce3436a-c4dc-4bf4-9e23-c9705ae5ec8b)
-
-</details>
-<details><summary>아이템 테이블 - item
-</summary>
-
-- item_num: 아이템의 고유 번호(코드) 저장
-- category_num: 아이템이 속한 카테고리 번호 저장
-- item_name: 아이템의 이름 정보 저장
-- item_price: 아이템의 가격 정보 저장
-
-![아이템테이블](https://github.com/user-attachments/assets/818ad544-cac1-4a43-a496-d80102aec5f7)
-
-</details>
-<details><summary>아이템 보관함 테이블 - item_box
-</summary>
-
-- user_num: 아이템 보관함을 가지고 있는 회원 번호 저장
-- item_num: 아이템 보관함에 저장된 아이템 번호(코드) 저장
-- item_equip: 아이템의 장착 유무 정보 저장
-
-![아이템보관함테이블](https://github.com/user-attachments/assets/d707039b-b089-437a-b38c-914af69d4b99)
-
-</details>
-
-<details><summary>아이템 장착 카테고리_상점 테이블 - item_equipcategory
-</summary>
-
-- category_num: 카테고리 고유 번호(코드) 저장
-- category_clothes: 아이템의 착용 위치 저장
-
-![아이템장착카테고리](https://github.com/user-attachments/assets/8254e793-7ea6-4736-af78-6bc395c7fea9)
-
-</details>
 
 ---
 
@@ -683,35 +802,23 @@ SELECT * FROM item;
 
 
 </details>
-
-
-
-
+</details>
 </details>
 
+<details><summary>신고 및 정지, 블라인드 기능
+</summary>
 
-
-
+write here
 </details>
 
 ---
+<details><summary> 메인 페이지
+</summary>
 
+*Write here!*
+</details>
 
 <details><summary> 팁 게시판 기능
-</summary>
-
-*Write here!*
-</details>
-
-
-<details><summary> 결제 기능
-</summary>
-
-*Write here!*
-</details>
-
-
-<details><summary> 아이템 기능
 </summary>
 
 *Write here!*
@@ -724,13 +831,23 @@ SELECT * FROM item;
 *Write here!*
 </details>
 
-<details>
-<summary>
-신고 및 정지, 블라인드 기능
+
+--- 
+<details><summary> 아이템 기능
 </summary>
 
-  <details><summary>들여쓰기
-  </summary>
+*Write here!*
+</details>
+
+<details><summary> 결제 기능
+</summary>
+
+*Write here!*
+</details>
+
+
+
+
 
 </details>
 
