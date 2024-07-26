@@ -289,34 +289,15 @@
 관리자 기능
 </summary>
 
-<details><summary>
- 회원 관리
-</summary>
+><details><summary>회원 관리</summary>
 
+>><details><summary> 회원 목록 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa6d11acd-e4ac-438d-ba80-501bdc1d4360%2FUntitled.png?table=block&id=b8708e39-b845-40a6-84a7-39a81f95a9e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
 
-<details><summary> 
-회원 목록 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa6d11acd-e4ac-438d-ba80-501bdc1d4360%2FUntitled.png?table=block&id=b8708e39-b845-40a6-84a7-39a81f95a9e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
+>><details><summary> 회원 목록 상세 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7651e603-ddd7-46cd-8b72-ddd0bfb6fb2a%2FUntitled.png?table=block&id=e7c8655a-8cca-431d-bc23-39f91168a384&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
 
-<details><summary> 
-회원 목록 상세 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7651e603-ddd7-46cd-8b72-ddd0bfb6fb2a%2FUntitled.png?table=block&id=e7c8655a-8cca-431d-bc23-39f91168a384&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
+>><details><summary> 회원 Q&A 게시글 목록 상세 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F635055db-ef02-45ac-9cf5-dbb778c39d77%2FUntitled.png?table=block&id=92cbc659-1539-4635-8250-010823729bf1&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
 
-<details><summary> 
-회원 Q&A 게시글 목록 상세 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F635055db-ef02-45ac-9cf5-dbb778c39d77%2FUntitled.png?table=block&id=92cbc659-1539-4635-8250-010823729bf1&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary> 
-회원 TIP 게시글 목록 상세 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F3053522a-2083-4df9-8c8a-03dd333a078c%2FUntitled.png?table=block&id=5f09d950-cbda-4648-bf5d-3d3dc7fb30e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
+>><details><summary> 회원 TIP 게시글 목록 상세 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F3053522a-2083-4df9-8c8a-03dd333a078c%2FUntitled.png?table=block&id=5f09d950-cbda-4648-bf5d-3d3dc7fb30e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
 </details>
 
 
@@ -585,31 +566,135 @@ SELECT * FROM item;
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F03da76d6-c05b-412a-85b2-7b805b759303%2FUntitled.png?table=block&id=fed42ed2-9380-4aea-bea2-b2a1f4d86dde&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1b363cf0-0b12-4bbc-876c-80dd9d359f8e%2FUntitled.png?table=block&id=225af9bc-25b6-43a3-9914-a9f5bb69ae19&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
-
-
-
-
-
-*Write here!*
 </details>
-
-
-
-
-
 </details>
-
-
-
-
-
 
 --- 
 <details><summary> 회원 기능
 </summary>
 
-*Write here!*
+
+
+<details><summary>1. 회원가입
+</summary>
+
+
+<details><summary>1-1. 회원등록
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4a26f2eb-dd5f-43dc-81c0-75877a187c31%2FUntitled.png?table=block&id=b280c94c-bd05-46d3-979b-200cd2156597&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
+
+
+
+<details><summary>1-2. 중복방지
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F42d9f7ab-091a-4e6e-a317-99344e481dce%2FUntitled.png?table=block&id=432adbbc-7342-495f-b78e-23966da80198&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+
+
+
+</details>
+
+<details><summary>2. 로그인
+</summary>
+
+
+<details><summary>2-1. 로그인
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F64e0746a-b5b2-4c7a-96fd-d1dea1a59baf%2FUntitled.png?table=block&id=56dab355-e79f-4c92-aed7-b9b1eb449442&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary> 2-2. 아이디 찾기
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0adc6f95-7f11-46e0-928c-f558d41b3aee%2FUntitled.png?table=block&id=fb93823e-ba20-46a6-ae9f-e52afa4bb6a0&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary> 2-3. 비밀번호 찾기(서비스 단, 형식적 구현)
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa1443b3b-b299-4470-8b97-d83a1198a1b3%2FUntitled.png?table=block&id=a42384a7-6d9e-4a18-8003-abd404dceb71&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+
+
+</details>
+
+<details><summary>3. 마이페이지
+</summary>
+
+<details><summary>3-1. 회원 정보 수정
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0fcd7e41-dc74-4fb5-9640-d3e896a7cc58%2FUntitled.png?table=block&id=d29a969b-9bf9-4b5c-9cee-6578b6e22647&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>3-2. 회원 정보 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd1378a3d-45ea-4681-814d-a89cda7c291c%2FUntitled.png?table=block&id=c75e149a-289e-4be5-8778-0bde43db266a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>3-3.회원 탈퇴
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F07aa7530-7a88-47e0-8426-8f2295022acd%2FUntitled.png?table=block&id=0e771dca-d88b-41c0-8733-9cdcfa60df0d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>3-4. 활동 조회
+</summary>
+
+
+<details><summary>3-4-1. 작성한 질문글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fe938ef2e-cdab-48f1-8427-98fd77382683%2FUntitled.png?table=block&id=a700996b-bdb1-485b-894f-a94368d8d843&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>3-4-2. 작성한 TIP 게시글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd714d153-f66f-4289-996d-cf7222e92b35%2FUntitled.png?table=block&id=71363556-1be1-4d99-a6b8-f15d4a6aad5a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>3-4-3. 작성한 댓글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F93b658d8-d849-422e-8db0-bf6c86a64a60%2FUntitled.png?table=block&id=cc6c926b-c74d-44c2-8c75-895ece749478&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>3-4-4. 좋아요 한 글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4af55432-d563-4b37-a07b-f6b3dc988a90%2FUntitled.png?table=block&id=7301e783-2ea9-41c0-a216-5d6754f1c285&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>3-4-5. 좋아요 한 댓글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F80365f4f-53ea-4e45-8588-5bf06eedad2c%2FUntitled.png?table=block&id=46795de3-e994-4c96-a907-14b44658aab9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>3-4-6. 스크랩 한 글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8801983f-6a96-4333-978e-49d3aef5dd45%2FUntitled.png?table=block&id=ec7dc092-d099-4b1d-b366-78e6f32467db&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+
+</details>
+
+
+
+
+</details>
+
+
+
+
+</details>
+
+---
 
 
 <details><summary> 팁 게시판 기능
@@ -639,9 +724,15 @@ SELECT * FROM item;
 *Write here!*
 </details>
 
-&emsp;<details><summary> 신고 및 정지, 블라인드 기능</summary>
-&emsp;*Write here!*
-&emsp;</details>
+<details>
+<summary>
+신고 및 정지, 블라인드 기능
+</summary>
+
+  <details><summary>들여쓰기
+  </summary>
+
+</details>
 
 
 
