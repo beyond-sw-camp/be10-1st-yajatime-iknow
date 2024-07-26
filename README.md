@@ -640,7 +640,8 @@ SELECT * FROM item;
 </details>
 
 &emsp;<details><summary> 신고 및 정지, 블라인드 기능</summary>
-*Write here!*</details>
+&emsp;*Write here!*
+&emsp;</details>
 
 
 
