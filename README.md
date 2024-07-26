@@ -15,8 +15,8 @@
 </summary>
 - ‘I_Know’는 일상 생활에서 사용하는 물건들을 사용할 때, 나만 아는 다른 사용법이나 정보들을 공유 하는 플랫폼입니다.
 <br></br>
-
 **[발을 씻자 다양한 사용 실제 사례]**
+<br></br>
 <img src="https://github.com/user-attachments/assets/61a72db0-9dcd-4a01-8fe3-3002e1540323" width="500" height="500">
 <br></br>
 - 해당 제품은 발을 세척하는 용도로 사용되는 제품입니다. 하지만 해당 제품의 세척 능력이 뛰어나 발을 세척하는 용도 외에 화장실 청소, 주방 청소 등 다양한 용도로 사용되고 있습니다. 
@@ -26,6 +26,7 @@
 <br></br>
 - 꿀팁, 꿀템에 관한 정보는 블로그, 유튜브, 인스타그램 등 다양한 채널에 분산되어 있습니다. 사용자는 원하는 정보를 찾기 위해 여러 플랫폼을 돌아다녀야 하며, 시간과 노력을 많이 소모하게 됩니다.
 <br></br>
+
 **I-KNOW 플랫폼에선 이용자들이 올린 꿀팁들을 편하게 모아 볼수 있고, 더하여 직접 팁을 요청하고 답변을 받을수 있어  원하는  정보를 보다 효율적으로 얻을 수 있습니다.**
 
 </details>
@@ -353,15 +354,29 @@ write here
 
 </details>
 
- 
----
+
+## 💡백업 계획
+
+<details><summary>master, slave VM에 mariaDB 구동</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0d65553f-0534-410d-ad01-7d9e83d17df6%2FUntitled.png?table=block&id=109eed17-4a09-4ecc-8c5e-b51dec98e479&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>master DB 서버에서 DDL 구문 생성</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F219c5bc6-691a-4367-bd0b-69d9f17063b7%2FUntitled.png?table=block&id=e7433098-cb58-4a7c-b44e-b2de3582ddae&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>slave DB 서버에서 read_only  적용</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fb9376f78-5abc-4162-9f54-597b02ff127f%2FUntitled.png?table=block&id=50edac92-e215-4c76-a21a-371fef456eac&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
 
 
 ## 💡기술스택
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
---- 
 
 
 ## 💡코드 시연
