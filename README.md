@@ -232,6 +232,8 @@
 
 ## 💡코드 시연📖
 
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F339805d1-3f66-42bd-97e9-5da7d6e8ad98%2FUntitled.png?table=block&id=49765cad-d7fc-4a18-a563-55861847808e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
 
 
 
