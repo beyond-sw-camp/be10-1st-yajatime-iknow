@@ -1,3 +1,10 @@
+
+<details><summary>프로젝트 개요
+</summary>
+
+프로젝트 기획
+</details>
+
 # 💡 I_Know💡
 <img src="https://github.com/user-attachments/assets/bf3aba34-18b6-47da-a5fa-1626d6849db1" width="300" height="300">
 
@@ -35,5 +42,16 @@
     - 사용자는 프리미엄 팁을 구매한 ‘온’을 교환하여 질 좋은 정보를 열람할 수 있습니다.
 - “온”이 부족한 사용자는 “온”을 구매하여 정보를 열람할 수 있습니다.
 - 질 좋은 팁을 공유한 사용자에게는 “온”을 지급하여 다른 정보를 얻을 수 있습니다.
+## 💡기술스택🖥️
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+
+## 💡요구사항 명세서🔧
+## 💡DB 설계문서🔧
+## 💡테이블 정의서🔧
+
+
 
 
