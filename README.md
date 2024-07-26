@@ -1,27 +1,27 @@
-
-<details><summary> ## 💡 프로젝트 기획💡
-</summary>
-
-*Write here!*
-</details>
-
 # 💡 I_Know💡
 <img src="https://github.com/user-attachments/assets/bf3aba34-18b6-47da-a5fa-1626d6849db1" width="300" height="300">
 
-## 💡맴버🥰
+## 💡맴버
 | 구대윤 | 신민철 | 안세령 | 연건창 | 임서연 | 황희순 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2 | 3 | 1 | 2 | 3 |
+| 🦁 | 🤩 | 🥰 | 🤓 | 🙄 | 🙃 |
 
 
 
-## 💡 프로젝트 소개❓  
+## 💡프로젝트 기획
+
+
+ **<details><summary> 💡프로젝트 소개❓**
+</summary>
 - **I_Know**는 **나만 아는 생활속 꿀팁**에 대한 정보나 방법들을 다양하게 공유하는 서비스입니다. 
 - 사용자는 생활 속 꿀팁을 공유하며 서비스 내의 화폐인 <u>“온”</u>(100의 옛 말)을 통해 화폐를 얻을 수 있습니다. 
 - “온”을 얻은 사용자는 생활 속 꿀팁 중 조회수, 좋아요 수, 공식 마크를 받은 질 좋은 꿀팁을 구매해 다양한 정보를 얻을 수 있습니다. 
 - 해당 프로젝트를 통해 사용자는 일상 생활 속 유용한 정보를 얻어 적용함으로써 삶의 질을 향상할 수 있으며, 나만 아는 꿀팁을 공유해 “온”을 얻음으로써 성취감을 느낄 수 있습니다.
+</details>
 
-## 💡 프로젝트 필요성🙋‍♀️
+
+**<details><summary>💡 프로젝트 필요성🙋‍♀️**
+</summary>
 - ‘I_Know’는 일상 생활에서 사용하는 물건들을 사용할 때, 나만 아는 다른 사용법이나 정보들을 공유하는 플랫폼입니다.
 
 #### [발을 씻자 다양한 사용 실제 사례]
@@ -29,28 +29,70 @@
     
 - 해당 제품은 발을 세척하는 용도로 사용되는 제품입니다. 하지만 해당 제품의 세척 능력이 뛰어나 발을 세척하는 용도 외에 화장실 청소, 주방 청소 등 다양한 용도로 사용되고 있습니다. 
 - 해당 제품처럼 주 사용 방법 뿐만 아니라 다양한 사용법과 정보들인 꿀팁을 공유하면서 일상 생활의 편안함과 새로운 정보를 제공하는 플랫폼 입니다.
+</details>
 
-## 💡프로젝트 주요 기능🛠
+
+**<details><summary>💡프로젝트 주요 기능🛠**
+</summary>
+
 1. 정보 공유
 2. 고객 관리
 3. 문의 & 인증
-4. 자세한 팁 질문 게시판
+4. 자세한 팁 질문 게시판 
+</details>
 
-## 💡프로젝트 사업성👍
+
+ 
+**<details><summary>💡프로젝트 사업성👍**
+</summary>
+
 1. 좋아요, 조회수 등 일정 기준을 측정하면 관리자는 팁에 뱃지를 제공합니다.1-1. 뱃지를 받은 팁은 프리미엄 팁으로 전환됩니다.
 2. 사용자는 프리미엄 팁을 구매한 ‘온’을 교환하여 질 좋은 정보를 열람할 수 있습니다.
 - “온”이 부족한 사용자는 “온”을 구매하여 정보를 열람할 수 있습니다.
 - 질 좋은 팁을 공유한 사용자에게는 “온”을 지급하여 다른 정보를 얻을 수 있습니다.
-## 💡기술스택🖥️
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+
+*Write here!*
+</details>
+
+---
+
+
+## 💡기술스택
+
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">  
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
+--- 
 
-## 💡요구사항 명세서📕
-## 💡DB 설계문서📗
-## 💡테이블 정의서📘
+
+
+
+
+
+
+
+**<details><summary>💡요구사항 명세서**
+</summary>
+
+*Write here!*
+</details>
+
+
+**<details><summary>💡DB 설계문서**
+</summary>
+
+*Write here!*
+</details>
+
+**<details><summary>💡테이블 정의서**
+</summary>
+
+*Write here!*
+</details>
+
 
 <details><summary>회원 테이블-user
 </summary>
@@ -237,9 +279,357 @@
 
 </details>
 
-## 💡코드 시연📖
+---
 
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F339805d1-3f66-42bd-97e9-5da7d6e8ad98%2FUntitled.png?table=block&id=49765cad-d7fc-4a18-a563-55861847808e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+**<details><summary>💡코드 시연**
+</summary>
+
+<details><summary> 
+관리자 기능
+</summary>
+
+<details><summary>
+ 회원 관리
+</summary>
+
+
+<details><summary> 
+회원 목록 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa6d11acd-e4ac-438d-ba80-501bdc1d4360%2FUntitled.png?table=block&id=b8708e39-b845-40a6-84a7-39a81f95a9e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary> 
+회원 목록 상세 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7651e603-ddd7-46cd-8b72-ddd0bfb6fb2a%2FUntitled.png?table=block&id=e7c8655a-8cca-431d-bc23-39f91168a384&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary> 
+회원 Q&A 게시글 목록 상세 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F635055db-ef02-45ac-9cf5-dbb778c39d77%2FUntitled.png?table=block&id=92cbc659-1539-4635-8250-010823729bf1&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary> 
+회원 TIP 게시글 목록 상세 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F3053522a-2083-4df9-8c8a-03dd333a078c%2FUntitled.png?table=block&id=5f09d950-cbda-4648-bf5d-3d3dc7fb30e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+
+
+
+<details><summary>회원 화폐 관리
+</summary>
+
+
+<details><summary>회원 화폐 수정
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fabcccef2-a50a-4885-89b7-5e468e9002ff%2FUntitled.png?table=block&id=59352f8e-41a5-4ece-9621-49081dc6442b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+
+
+<details><summary>TIP 게시판 카테고리 관리
+</summary>
+
+
+<details><summary>카테고리 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F052521a0-8650-437f-94a9-f5b5bad96921%2FUntitled.png?table=block&id=a84d7176-ec3f-488e-924f-8399cbd356bc&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>카테고리 추가 
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fdbe0b962-2a37-4714-a19d-29362b208839%2FUntitled.png?table=block&id=084f0631-c650-40de-b38e-3a29d5e37fa6&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>카테고리 수정
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa4e06dfa-28e8-4c77-a554-6be99b2f3c28%2FUntitled.png?table=block&id=8eeeef8d-139e-4f0b-920c-6ec7316548bc&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>카테고리 삭제
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F925b64c6-8832-47bc-97dc-8d9de7c6d0ee%2FUntitled.png?table=block&id=296ef643-3de2-4082-aa17-989007604aca&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+
+
+
+<details><summary>아이템 관리
+</summary>
+
+
+<details><summary>아이템 조회
+</summary>
+
+
+```
+-- user_role 이 admin인 경우 특정 아이템 조회 기능 구현
+
+DELIMITER //
+
+CREATE PROCEDURE view_item_if_admin (
+    IN user_id_input VARCHAR(50),
+    IN item_num_input INT,
+    OUT result VARCHAR(255)
+)
+BEGIN
+    DECLARE user_auth_value VARCHAR(50);
+    DECLARE item_details VARCHAR(255);
+
+    -- 제공된 user_id에 해당하는 user_auth 값을 가져옴
+    SELECT user_role INTO user_auth_value
+    FROM users
+    WHERE user_id = user_id_input;
+
+    -- user_role 값이 'admin'인지 확인
+    IF user_auth_value = 'admin' THEN
+        -- 사용자가 관리자인 경우에만 item을 조회
+        SELECT 
+            CONCAT(
+                'item_num: ', i.item_num, 
+                ', item_name: ', i.item_name, 
+                ', item_price: ', i.item_price, 
+                ', category_clothes: ', iec.category_clothes
+            ) INTO item_details
+        FROM 
+            item i
+        JOIN 
+            item_equipcategory iec ON i.category_num = iec.category_num
+        WHERE 
+            i.item_num = item_num_input;
+        
+        SET result = item_details;
+    ELSE
+        -- 사용자가 관리자가 아닌 경우 오류 발생 또는 처리
+        SET result = '사용자가 관리자가 아닙니다';
+    END IF;
+END //
+
+DELIMITER ;
+
+-- 프로시저 호출 예시 (아이템 조회)
+SET @result = NULL;
+CALL view_item_if_admin('user3', 10, @result);
+SELECT @result;
+
+SELECT * FROM item;
+```
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F848bf63a-f239-497d-8aec-1a2c20f98306%2FUntitled.png?table=block&id=f8dbe4d6-824a-42a6-9fd2-ff215e891040&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F567beb21-84ec-4c0d-bf62-fa123202ef47%2FUntitled.png?table=block&id=29f81b76-046e-4e1b-9c71-25c6e87eec8b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+
+
+</details>
+
+
+<details><summary>아이템 추가
+</summary>
+
+```
+-- user_role 이 admin인 경우 아이템 추가 기능 구현
+DROP PROCEDURE insert_item_if_admin;
+
+DELIMITER //
+
+CREATE PROCEDURE insert_item_if_admin (
+    IN user_id_input VARCHAR(50),
+    IN item_name_input VARCHAR(50),
+    IN item_price_input INT,
+    IN category_num_input INT,
+    OUT result VARCHAR(255)
+)
+BEGIN
+    DECLARE user_auth_value VARCHAR(50);
+
+    -- 제공된 user_id에 해당하는 user_auth 값을 가져옴
+    SELECT user_role INTO user_auth_value
+    FROM users
+    WHERE user_id = user_id_input;
+
+    -- user_auth 값이 'admin'인지 확인
+    IF user_auth_value = 'admin' THEN
+        -- 사용자가 관리자인 경우에만 item을 삽입
+        INSERT INTO item (item_name, item_price, category_num)
+        VALUES (item_name_input, item_price_input, category_num_input);
+        SET result = '아이템 추가 완료';
+    ELSE
+        -- 사용자가 관리자가 아닌 경우 오류 발생 또는 처리
+        SET result = '사용자가 관리자가 아닙니다';
+    END IF;
+END //
+
+DELIMITER ;
+
+-- 프로시저 호출 예시
+SET @result = NULL;
+CALL insert_item_if_admin('user3', '빨간신발', 20, 3, @result);
+SELECT @result;
+
+SELECT * FROM item;
+```
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F55abb261-ae03-4d5a-b807-6baa65e8600a%2FUntitled.png?table=block&id=59101240-a5ca-441b-965a-7c7c818ab955&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F38c572d3-006b-47e1-8d8d-f88e71aa3fca%2FUntitled.png?table=block&id=3deb9cec-0ae6-4ef1-a5fa-41ed00f3db03&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>아이템 수정
+</summary>
+
+```
+-- -- user_role 이 admin인 경우 특정 아이템 update 기능 구현
+
+DELIMITER //
+
+CREATE PROCEDURE update_item_if_admin (
+    IN user_id_input VARCHAR(50),
+    IN item_num_input INT,
+    IN new_item_name VARCHAR(50),
+    IN new_item_price INT,
+    IN new_category_num INT,
+    OUT result VARCHAR(255)
+)
+BEGIN
+    DECLARE user_auth_value VARCHAR(50);
+
+    -- 제공된 user_id에 해당하는 user_auth 값을 가져옴
+    SELECT user_role INTO user_auth_value
+    FROM users
+    WHERE user_id = user_id_input;
+
+    -- user_role 값이 'admin'인지 확인
+    IF user_auth_value = 'admin' THEN
+        -- 사용자가 관리자인 경우에만 item을 업데이트
+        UPDATE item
+        SET 
+            item_name = new_item_name,
+            item_price = new_item_price,
+            category_num = new_category_num
+        WHERE 
+            item_num = item_num_input;
+        
+        SET result = '아이템 업데이트 완료';
+    ELSE
+        -- 사용자가 관리자가 아닌 경우 오류 발생 또는 처리
+        SET result = '사용자가 관리자가 아닙니다';
+    END IF;
+END //
+
+DELIMITER ;
+
+-- 프로시저 호출 예시 (아이템 업데이트)
+SET @result = NULL;
+CALL update_item_if_admin('user3', 10, '쿠로미', 15, 1, @result);
+SELECT @result;
+
+SELECT * FROM item;
+
+```
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4bed4c2b-187b-4a7f-9817-ce85dd34d522%2FUntitled.png?table=block&id=a38f65b5-ce8b-4218-a8bd-a56a040ea29a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1764c862-ca93-4bc2-b008-be362a109ebf%2FUntitled.png?table=block&id=656cfec2-494b-41cd-af3a-90bc2de268b1&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F2309e86d-222a-49f8-b2a0-86a93fa88183%2FUntitled.png?table=block&id=3dd9e329-85c8-47d5-a4f7-2bfc58c243f7&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>아이템 삭제
+</summary>
+
+```
+-- DROP PROCEDURE delete_item_if_admin;
+
+-- user_role 이 admin인 경우 아이템 삭제 기능 구현
+DELIMITER //
+
+CREATE PROCEDURE delete_item_if_admin (
+    IN user_id_input VARCHAR(50),
+    IN item_num_input INT,
+    OUT result VARCHAR(255)
+)
+BEGIN
+    DECLARE user_auth_value VARCHAR(50);
+
+    -- 제공된 user_id에 해당하는 user_auth 값을 가져옴
+    SELECT user_role INTO user_auth_value
+    FROM users
+    WHERE user_id = user_id_input;
+
+    -- user_auth 값이 'admin'인지 확인
+    IF user_auth_value = 'admin' THEN
+        -- 사용자가 관리자인 경우에만 item을 삭제
+        DELETE FROM item WHERE item_num = item_num_input;
+        SET result = '아이템 삭제 완료';
+    ELSE
+        -- 사용자가 관리자가 아닌 경우 오류 발생 또는 처리
+        SET result = '사용자가 관리자가 아닙니다';
+    END IF;
+END //
+
+DELIMITER ;
+
+-- 프로시저 호출 예시 (아이템 삭제)
+SET @result = NULL;
+CALL delete_item_if_admin('user1', 11, @result);
+SELECT @result;
+
+SELECT * FROM item;
+
+```
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F03da76d6-c05b-412a-85b2-7b805b759303%2FUntitled.png?table=block&id=fed42ed2-9380-4aea-bea2-b2a1f4d86dde&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1b363cf0-0b12-4bbc-876c-80dd9d359f8e%2FUntitled.png?table=block&id=225af9bc-25b6-43a3-9914-a9f5bb69ae19&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+</details>
+
+--- 
+<details><summary> 회원 기능
+</summary>
+
+*Write here!*
+</details>
+
+
+<details><summary> 팁 게시판 기능
+</summary>
+
+*Write here!*
+</details>
+
+
+<details><summary> 결제 기능
+</summary>
+
+*Write here!*
+</details>
+
+
+<details><summary> 아이템 기능
+</summary>
+
+*Write here!*
+</details>
+
+
+<details><summary> QnA 게시판 기능
+</summary>
+
+*Write here!*
+</details>
+
+<details><summary> 신고 및 정지, 블라인드 기능
+</summary>
+
+*Write here!*
+</details>
+
+
 
 
 
