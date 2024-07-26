@@ -364,16 +364,111 @@ write here
 --- 
 
 
-**<details><summary>💡코드 시연**
+## 💡코드 시연
+
+<details><summary> 회원 기능
 </summary>
 
-<details><summary> 
-관리자 기능
+
+
+<details><summary>회원가입
 </summary>
 
-><details><summary>회원 관리</summary>
 
->><details><summary> 회원 목록 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa6d11acd-e4ac-438d-ba80-501bdc1d4360%2FUntitled.png?table=block&id=b8708e39-b845-40a6-84a7-39a81f95a9e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
+<details><summary>1-1-1) 회원등록</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4a26f2eb-dd5f-43dc-81c0-75877a187c31%2FUntitled.png?table=block&id=b280c94c-bd05-46d3-979b-200cd2156597&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+
+<details><summary>중복방지</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F42d9f7ab-091a-4e6e-a317-99344e481dce%2FUntitled.png?table=block&id=432adbbc-7342-495f-b78e-23966da80198&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+</details>
+
+<details><summary>로그인
+</summary>
+
+
+<details><summary>로그인</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F64e0746a-b5b2-4c7a-96fd-d1dea1a59baf%2FUntitled.png?table=block&id=56dab355-e79f-4c92-aed7-b9b1eb449442&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary> 아이디 찾기</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0adc6f95-7f11-46e0-928c-f558d41b3aee%2FUntitled.png?table=block&id=fb93823e-ba20-46a6-ae9f-e52afa4bb6a0&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
+
+<details><summary>비밀번호 찾기(서비스 단, 형식적 구현)</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa1443b3b-b299-4470-8b97-d83a1198a1b3%2FUntitled.png?table=block&id=a42384a7-6d9e-4a18-8003-abd404dceb71&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+
+
+</details>
+
+<details><summary>마이페이지</summary>
+
+<details><summary> 회원 정보 수정
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0fcd7e41-dc74-4fb5-9640-d3e896a7cc58%2FUntitled.png?table=block&id=d29a969b-9bf9-4b5c-9cee-6578b6e22647&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>회원 정보 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd1378a3d-45ea-4681-814d-a89cda7c291c%2FUntitled.png?table=block&id=c75e149a-289e-4be5-8778-0bde43db266a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>회원 탈퇴
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F07aa7530-7a88-47e0-8426-8f2295022acd%2FUntitled.png?table=block&id=0e771dca-d88b-41c0-8733-9cdcfa60df0d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>활동 조회
+</summary>
+
+
+<details><summary>작성한 질문글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fe938ef2e-cdab-48f1-8427-98fd77382683%2FUntitled.png?table=block&id=a700996b-bdb1-485b-894f-a94368d8d843&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>작성한 TIP 게시글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd714d153-f66f-4289-996d-cf7222e92b35%2FUntitled.png?table=block&id=71363556-1be1-4d99-a6b8-f15d4a6aad5a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>작성한 댓글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F93b658d8-d849-422e-8db0-bf6c86a64a60%2FUntitled.png?table=block&id=cc6c926b-c74d-44c2-8c75-895ece749478&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>좋아요 한 글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4af55432-d563-4b37-a07b-f6b3dc988a90%2FUntitled.png?table=block&id=7301e783-2ea9-41c0-a216-5d6754f1c285&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>좋아요 한 댓글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F80365f4f-53ea-4e45-8588-5bf06eedad2c%2FUntitled.png?table=block&id=46795de3-e994-4c96-a907-14b44658aab9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>스크랩 한 글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8801983f-6a96-4333-978e-49d3aef5dd45%2FUntitled.png?table=block&id=ec7dc092-d099-4b1d-b366-78e6f32467db&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+
+</details>
+</details>
+</details>
+
+
+<details><summary> 관리자 기능</summary>
+
+<details><summary>회원 관리</summary>
+
+<details><summary> 회원 목록 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa6d11acd-e4ac-438d-ba80-501bdc1d4360%2FUntitled.png?table=block&id=b8708e39-b845-40a6-84a7-39a81f95a9e8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
 
 >><details><summary> 회원 목록 상세 조회</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F7651e603-ddd7-46cd-8b72-ddd0bfb6fb2a%2FUntitled.png?table=block&id=e7c8655a-8cca-431d-bc23-39f91168a384&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'></details>
 
@@ -388,9 +483,7 @@ write here
 </summary>
 
 
-<details><summary>회원 화폐 수정
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fabcccef2-a50a-4885-89b7-5e468e9002ff%2FUntitled.png?table=block&id=59352f8e-41a5-4ece-9621-49081dc6442b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<details><summary>회원 화폐 수정</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fabcccef2-a50a-4885-89b7-5e468e9002ff%2FUntitled.png?table=block&id=59352f8e-41a5-4ece-9621-49081dc6442b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1530&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 </details>
 
@@ -651,122 +744,8 @@ SELECT * FROM item;
 </details>
 </details>
 
---- 
-<details><summary> 회원 기능
-</summary>
 
 
-
-<details><summary>1. 회원가입
-</summary>
-
-
-<details><summary>1-1. 회원등록
-</summary>
-
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4a26f2eb-dd5f-43dc-81c0-75877a187c31%2FUntitled.png?table=block&id=b280c94c-bd05-46d3-979b-200cd2156597&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-
-<details><summary>1-2. 중복방지
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F42d9f7ab-091a-4e6e-a317-99344e481dce%2FUntitled.png?table=block&id=432adbbc-7342-495f-b78e-23966da80198&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-
-
-
-</details>
-
-<details><summary>2. 로그인
-</summary>
-
-
-<details><summary>2-1. 로그인
-</summary>
-
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F64e0746a-b5b2-4c7a-96fd-d1dea1a59baf%2FUntitled.png?table=block&id=56dab355-e79f-4c92-aed7-b9b1eb449442&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary> 2-2. 아이디 찾기
-</summary>
-
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0adc6f95-7f11-46e0-928c-f558d41b3aee%2FUntitled.png?table=block&id=fb93823e-ba20-46a6-ae9f-e52afa4bb6a0&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary> 2-3. 비밀번호 찾기(서비스 단, 형식적 구현)
-</summary>
-
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa1443b3b-b299-4470-8b97-d83a1198a1b3%2FUntitled.png?table=block&id=a42384a7-6d9e-4a18-8003-abd404dceb71&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-
-
-</details>
-
-<details><summary>3. 마이페이지
-</summary>
-
-<details><summary>3-1. 회원 정보 수정
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0fcd7e41-dc74-4fb5-9640-d3e896a7cc58%2FUntitled.png?table=block&id=d29a969b-9bf9-4b5c-9cee-6578b6e22647&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary>3-2. 회원 정보 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd1378a3d-45ea-4681-814d-a89cda7c291c%2FUntitled.png?table=block&id=c75e149a-289e-4be5-8778-0bde43db266a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-<details><summary>3-3.회원 탈퇴
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F07aa7530-7a88-47e0-8426-8f2295022acd%2FUntitled.png?table=block&id=0e771dca-d88b-41c0-8733-9cdcfa60df0d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-<details><summary>3-4. 활동 조회
-</summary>
-
-
-<details><summary>3-4-1. 작성한 질문글 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fe938ef2e-cdab-48f1-8427-98fd77382683%2FUntitled.png?table=block&id=a700996b-bdb1-485b-894f-a94368d8d843&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary>3-4-2. 작성한 TIP 게시글 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd714d153-f66f-4289-996d-cf7222e92b35%2FUntitled.png?table=block&id=71363556-1be1-4d99-a6b8-f15d4a6aad5a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary>3-4-3. 작성한 댓글 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F93b658d8-d849-422e-8db0-bf6c86a64a60%2FUntitled.png?table=block&id=cc6c926b-c74d-44c2-8c75-895ece749478&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary>3-4-4. 좋아요 한 글 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F4af55432-d563-4b37-a07b-f6b3dc988a90%2FUntitled.png?table=block&id=7301e783-2ea9-41c0-a216-5d6754f1c285&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-<details><summary>3-4-5. 좋아요 한 댓글 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F80365f4f-53ea-4e45-8588-5bf06eedad2c%2FUntitled.png?table=block&id=46795de3-e994-4c96-a907-14b44658aab9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-<details><summary>3-4-6. 스크랩 한 글 조회
-</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8801983f-6a96-4333-978e-49d3aef5dd45%2FUntitled.png?table=block&id=ec7dc092-d099-4b1d-b366-78e6f32467db&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1920&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-</details>
-
-
-
-</details>
-</details>
-</details>
 
 <details><summary>신고 및 정지, 블라인드 기능
 </summary>
@@ -775,44 +754,370 @@ write here
 </details>
 
 ---
-<details><summary> 메인 페이지
+<details><summary>메인 페이지
 </summary>
 
-*Write here!*
-</details>
-
-<details><summary> 팁 게시판 기능
+<details><summary>웹 배너
 </summary>
 
-*Write here!*
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Faef77b69-7298-4cb4-ae52-d653fa5defef%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_164548.png?table=block&id=da2c029d-a3f1-466c-9c47-f97ffc41a038&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0ba57b3a-141e-4ac3-afe6-788b3a30e940%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_164610.png?table=block&id=f28d68f0-9a38-4287-a811-ba9937d41f09&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0c9366c8-272d-4a01-a9a3-45d58a16652b%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_164703.png?table=block&id=aff6e200-b43f-45c8-9f1c-981a9fa01ab5&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F49331992-9e0f-47a4-b7f8-36cb0b25daff%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_164800.png?table=block&id=35f8c061-f33f-4784-91a0-22d02cc96832&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
+
+<details><summary>TIP 10
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F155da45d-bf24-4444-926c-82fe5efeaadc%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161703.png?table=block&id=315e9893-0b84-4f34-af95-4aadcd9b1f18&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fac02b7d1-c462-4bef-b900-cd14ad84c389%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161740.png?table=block&id=19b9e152-6cb0-48ff-badb-16b486fbf30d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9c642645-1fc9-4da0-9ef0-241ae330c80a%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161834.png?table=block&id=d43e9588-9c40-42d9-889e-c240579d67cd&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd072815a-521b-4a51-80fc-3133a5081729%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161927.png?table=block&id=c5af925d-cb79-487c-af33-313be45ea4b4&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src=''>
+</details>
+
+<details><summary>TIP 인기
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9f4787e4-1b3c-4a53-9d6f-c3cb376e4989%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161107.png?table=block&id=4a791273-bf84-448c-b54e-6c2bc9314e07&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F30f44480-9ea8-493a-9d80-dbb3b2e4ad6f%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161147.png?table=block&id=e784fed8-fda3-469c-ac46-e551b186f18b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8927aa4f-c2fb-4c8f-9d6d-f89a83cc73a7%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161232.png?table=block&id=af80b8c3-d2f6-4093-8a62-51999d5e8f48&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1395a554-e5ab-49cf-930c-33f28883b1df%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161320.png?table=block&id=65a98018-abf7-4f19-90e0-f827b51bb55e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>게시판 최신
+</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fc579d5e0-9427-4b59-9ed6-4156144847a6%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_155522.png?table=block&id=e3c5ade2-b7e4-4fee-bea6-fb68a4c69152&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fc579d5e0-9427-4b59-9ed6-4156144847a6%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_155522.png?table=block&id=e3c5ade2-b7e4-4fee-bea6-fb68a4c69152&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+</details>
+
+
+
+<details><summary>팁 게시판 기능
+</summary>
+
+<details><summary>팁 게시글
+</summary>
+<details><summary>게시글 등록</summary>
+
+```
+DROP TRIGGER if EXISTS before_insert_tip_post;
+
+DELIMITER //
+
+CREATE TRIGGER before_insert_tip_post
+BEFORE INSERT ON tip_post
+FOR EACH ROW
+BEGIN
+    IF TRIM(NEW.tip_post_title) = '' THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = '팁 게시판 제목은 공백일 수 없습니다.';
+    END IF;
+    
+    IF TRIM(NEW.tip_post_content) = '' THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = '팁 게시판 내용은 공백일 수 없습니다.';
+    END IF;
+END //
+
+DELIMITER ;
+
+
+-- 1. 팁 게시글 생성(Create)
+INSERT INTO tip_post (tip_post_title, tip_post_content, create_date, update_date, user_num, category_num, is_blinded, view_count)
+VALUES ('효율적인 시간 관리 방법', '시간 관리를 효과적으로 하는 팁에 대해 설명합니다...', '2023-06-10 10:00:00', NULL, 4, 2, FALSE, 120);
+SELECT * FROM tip_post;
+
+
+INSERT INTO tip_post (tip_post_title, tip_post_content, create_date, update_date, user_num, category_num, is_blinded, view_count)
+VALUES (' ', '제목이 없는 내용', NOW(), NULL,4, 2, TRUE, 200);
+
+INSERT INTO tip_post (tip_post_title, tip_post_content, create_date, update_date, user_num, category_num, is_blinded, view_count)
+VALUES  ('내용이 없는 제목', ' ', NOW(), NULL, 4, 2, FALSE, 150);
+
+```
+- 제약조건
+>TIP 게시글의 제목 및 내용은 공백일 수 없다.
+
+>1.정상적으로 게시글이 등록된 경우<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0ee9707d-5490-4951-a942-a034e60d2212%2FUntitled.png?table=block&id=e85650c4-9649-4ce2-a2fd-947e6aed67c2&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+>2.질문글의 제목 및 내용이 공백인 경우<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F6993f01c-9106-440f-b8f1-b3f7a7561304%2FUntitled.png?table=block&id=0528ddcf-e4a4-4138-8a6f-9d96b66b0dc5&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+</details>
+
+
+<details><summary>게시들 조회</summary>
+1.팁 게시글에서 특정 키워드로 게시글 검색 가능
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fbae8d84b-8ebe-448d-b8c8-7d16dce3a14e%2FUntitled.png?table=block&id=4499595c-aa82-448a-979b-ec161680f57e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 좋아요 순으로 게시글 정렬 가능
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F2d48de58-76e0-4b02-9553-833584624cf4%2FUntitled.png?table=block&id=63ea63a2-a5d7-4586-80f9-67a85cdccfdf&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+3. 팁 게시글 상세 조회 가능
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0f827777-e69c-48a1-bfaa-2b904be2b1f3%2FUntitled.png?table=block&id=fa6fdae8-9bb3-4a72-94bb-1614e6921cdf&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>게시들 수정</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fb6ccae5c-854f-4cee-9d21-06a018e4c406%2FUntitled.png?table=block&id=d1facb2e-144c-4f3a-9259-1ec5cecfba24&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+- 제약조건: : TIP 게시글의 제목 및 내용은 공백일 수 없다.
+
+1. 정상적으로 게시글이 수정된 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F24dbee3f-d254-42aa-83c0-98c8852839bf%2FUntitled.png?table=block&id=f43bb8ed-ac55-4ce7-bf96-a417c4128595&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 게시글의 제목 및 내용이 공백인 경
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fb62cf0cc-9079-4ebe-82d3-d2bc7925ecc4%2FUntitled.png?table=block&id=fd8fb139-444c-4fad-9213-e53a1bbbabd5&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fb4466b29-a1ba-4d1f-8981-d32c5efbf34f%2FUntitled.png?table=block&id=6eecac8d-92ae-41a7-9b95-c2c1e6e39ce6&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+
+<details><summary>게시들 삭제</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9f07dc69-0223-4956-b93a-c1da853caf61%2FUntitled.png?table=block&id=7653663e-de8e-4137-b509-6ba77be8c59b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+
+
+
+<details><summary>팁 게시글 댓글
+</summary>
+
+<details><summary>댓글 등록
+</summary>
+
+- 제약 조건
+```
+DELIMITER //
+-- 1. 팁게시글 댓글을 삽입할 때의 제약조건
+-- : 삽입할 팁게시글 댓글의 내용은 공백일 수 없다.
+
+CREATE TRIGGER before_insert_tip_reply
+BEFORE INSERT ON tip_reply
+FOR EACH ROW
+BEGIN
+    IF TRIM(NEW.tip_reply_content) = '' THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = '팁게시글 댓글 내용은 공백일 수 없습니다.';
+    END IF;
+END //
+
+DELIMITER ;
+```
+1. 정상적으로 등록되는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fef9a5334-f4b6-4ac3-aef9-c52e969a2c5d%2FUntitled.png?table=block&id=1b292ac1-1053-4475-aa94-90135f59f16e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 답변글 내용이 공백인 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F5e4cfcbb-ff75-4a0d-a045-a6dd1d57eb41%2FUntitled.png?table=block&id=2811972a-626c-4a6d-8ef3-2648662a6608&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fb541049c-d397-4b44-8db6-404c20c60302%2FUntitled.png?table=block&id=79848a07-c2ab-4824-85b9-8958cb43ab58&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>댓글 조회
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0bb01baf-1393-41ef-b03f-804f403d7922%2FUntitled.png?table=block&id=811c1641-45fe-45cd-a63d-be9e6c64125e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>댓글 수정
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fde945362-7c55-49ef-a8f8-089c1121db9b%2FUntitled.png?table=block&id=c7ffe394-0183-44c5-83d6-fe96fcd2f6b0&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+```
+-- 3. 팁게시글 댓글 수정(Update)
+-- 댓글 수정시 update_date 값을 현재 시간으로 변경
+-- 댓글 수정시 내용은 공백이어서는 안됨
+-- 자신이 작성한 댓글만 수정 가능하여야 함
+
+DELIMITER //
+
+CREATE TRIGGER before_update_tip_reply
+BEFORE UPDATE ON tip_reply
+FOR EACH ROW
+BEGIN
+    SET NEW.update_date = NOW();
+    
+    IF TRIM(NEW.tip_reply_content) = '' THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = '댓글 내용은 공백일 수 없습니다.';
+    END IF;
+
+    
+    IF OLD.user_num != NEW.user_num THEN
+    SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = '자신이 작성한 댓글만 수정할 수 있습니다.';
+    END IF;
+    
+END //
+
+DELIMITER ;
+```
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fff132cce-718f-45bc-810c-4e4e4c0b5b94%2FUntitled.png?table=block&id=ae469040-d145-4dea-9091-c8d1ed19166a&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+</details>
+
+<details><summary>댓글 삭제
+</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F657366b0-0e23-431d-a56a-475a505e0771%2FUntitled.png?table=block&id=3199bc30-466d-45a9-a991-921ca832d715&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+</details>
+
 
 
 <details><summary> QnA 게시판 기능
 </summary>
 
-*Write here!*
+<details><summary>질문 게시글
+</summary>
+
+<details><summary>질문글 등록
+</summary><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F3568a678-06d0-43d0-8233-c9f6d3064ead%2FUntitled.png?table=block&id=bb450a5f-fe9d-40f6-95d3-09a05e5b6ac8&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+**제약조건: 질문글의 제목 및 내용은 공백일 수 없다.**
+
+1. 정상적으로 질문글이 등록된 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F94b5ed40-d3de-4590-b5f2-d80b01a78a5a%2FUntitled.png?table=block&id=6c10c944-8186-4d25-b2d1-555ace0c91c6&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 질문글의 제목 및 내용이 공백인 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff22c7df7-11c5-4262-80dc-fcd959c7f69c%2FUntitled.png?table=block&id=f5c2000c-e40b-48d0-b7e8-387bd8ef8196&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
+
+<details><summary>질문글 조회
+</summary>
+
+**제약조건: 블라인드된 글은 사용자에게 조회될 수 없다.**
+1. 질문 게시판에서 등록된 **질문글의 제목 조회** 가능.
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F730de5e4-48ed-4f7f-a2e1-83f7849cedc9%2FUntitled.png?table=block&id=d6cb829e-23d7-429f-a114-efe1d1f4ad67&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fbbe3d4ce-e6d1-4b2f-a72f-815b3408cb65%2FUntitled.png?table=block&id=aa5db9f0-dd65-4408-aabd-fac857b4b850&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 질문 게시판에서 카테고리를 선택해 해당 카테고리에 속하는 질문글의 제목 조회 가능.
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F81b05505-d087-43ba-b9f0-9078f0d0ab18%2FUntitled.png?table=block&id=f4741558-9547-4445-8d18-e049c2ed2034&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+3. 질문 게시판에서 하나의 질문글을 선택해 해당 질문글의 제목, 내용, 카테고리명, 질문에 걸린 온의 개수, 글 등록일자, 달린 답변글 개수 조회 가능.
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ffe47e1d0-f3b0-474c-9a1f-0ffe32717198%2FUntitled.png?table=block&id=994f83d6-223f-4f1b-a58e-68a28707cae4&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>질문글 수정
+</summary>
+
+**제약조건**
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff99c796b-7594-4635-b9b8-8bc85a96a0c8%2FUntitled.png?table=block&id=de2a4153-d137-4ee1-85d7-78bf7fe0ad53&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+1. 정상적으로 질문글 수정하는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fae80bbb9-3432-4437-a1d2-59062cfc5f84%2FUntitled.png?table=block&id=adaefd6f-ec97-4f58-b830-90990749f8fd&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 질문글의 제목이나 내용을 공백으로 수정하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fab9be3d8-e660-47f7-b5af-43f66f681748%2FUntitled.png?table=block&id=a751a4bd-d0fb-42cc-ba35-c7a427a4cda6&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff756bb9e-ca29-40dc-aded-ba7c721a5757%2FUntitled.png?table=block&id=00a882f6-9d80-4045-b94c-a4350be0eb2b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+3. 해당 질문글에 달린 답변이 채택된 경우<img src='https://notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fcb4cc0ab-1958-40a1-8071-340cd97c3646%2FUntitled.png?table=block&id=84ae3f3b-0e82-4ac7-8802-fa1375b4cb09&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+4. 다른 사람의 글을 수정하려는 경우<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F663fd698-0cc7-4a49-a9b8-ded5fe243217%2FUntitled.png?table=block&id=33d8e3d5-7821-445d-94a6-f308c80924e1&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+<details><summary>질문글 삭제
+</summary>
+
+**제약조건**
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fa52e294e-56f2-4e55-8b64-8f5aebbc7b96%2FUntitled.png?table=block&id=c5553758-4bfc-4909-8c96-72c2b377ee68&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+1. 정상적으로 잘 삭제되는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd66ff001-6952-4c50-8821-1e95f5922cc5%2FUntitled.png?table=block&id=b72b2874-b46c-4b79-87c1-82fa89bddcc6&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F237aa86c-81e6-4cf9-8ebf-8bb6bd126b83%2FUntitled.png?table=block&id=71ffee45-0f63-4c86-9b29-7d72e0e67c1b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 자신이 작성한 글이 아닌 질문글을 삭제하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F2ca5295a-cbbe-4012-902a-9c936fcb97dd%2FUntitled.png?table=block&id=4eda2d03-d43a-4c84-b71c-18ebd98cc169&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+3. 이미 해당 질문글에  채택된 답변이 달린 경우
+→ *Foreign key 설정으로 인해 자연스럽게 막아지지만, 원하는 에러 메세지를 띄우기 위해 일시적으로 foreign key 설정 없애고 실행함*.
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fcc6df70e-1264-4b7c-9acf-c2ab19c1d030%2FUntitled.png?table=block&id=d56b858a-4766-4378-9e1f-40383061a644&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+</details>
+
+</details>
+
+<details><summary>답변 게시글
+</summary>
+
+<details><summary>답변글 등록
+</summary>
+
+**제약조건**
+1. 정상적으로 등록되는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fffd0e05a-29f2-42fa-939f-24fcff8e2731%2FUntitled.png?table=block&id=30739c57-97ef-43f5-b655-b47321ecfb86&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 답변글 제목 또는 내용이 공백인 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F6a0b518b-379a-4de7-b8f2-6d29a019f335%2F6ca674f5-fe00-4144-a7b9-8bda94fb3946.png?table=block&id=aa08fe78-ab5a-4a44-abf9-1a7bd8a6e7db&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fe23bb14a-91f3-40bb-a7f3-73cd64b2ca92%2FUntitled.png?table=block&id=ad973c39-46f3-460f-a33b-61f1b8360e2c&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+</details>
+
+<details><summary>답변글 조회
+</summary>
+
+**bliend 조회 못하게 하기**
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F57e9815b-4b89-4001-b04d-89f8a869898a%2FUntitled.png?table=block&id=e5c666d3-e793-4729-a93c-5f8c17f11fe7&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+
+<details><summary>답변글 수정
+</summary>
+
+**제약 조건**
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8f3bbe61-08d1-49f9-ada1-3e88e8fe66b3%2FUntitled.png?table=block&id=d6d48b38-2741-4de5-8658-bf14810817d4&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+1. 정상적으로 수정되는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0f545d87-e59d-4b7b-b27a-dbf473c343fa%2FUntitled.png?table=block&id=add7a16f-699a-4a0d-b76e-3cc5cde65611&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 답변 제목/내용을 공백으로 수정하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Faa7df58c-ee3c-43da-9d4f-1caab44ca473%2FUntitled.png?table=block&id=13cbe062-5453-4dec-b5e4-f39807d87663&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F02093a4f-2fe7-42e8-97fb-cc8692561f22%2FUntitled.png?table=block&id=60723c35-9e83-4545-ba70-a2b7764011bd&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+3. 채택된 답변을 수정하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F380790a6-1ffe-4753-a2ab-008b1d711197%2FUntitled.png?table=block&id=da23352e-e410-4406-ba50-b68cec54e311&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+4. 자신이 작성하지 않은 글을 수정하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F90feaa06-43e9-424d-b394-023557e5c852%2FUntitled.png?table=block&id=a60b50e6-ae2f-4838-847f-840065254327&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+</details>
+
+<details><summary>답변글 채택
+</summary>
+
+**제약조건**
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F12bc357c-06a8-42ca-9109-76082a364223%2FUntitled.png?table=block&id=cd5a1923-a2b1-4eff-a1d3-7f4bea13295f&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+1. 정상적으로 답변이 채택되는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F07230555-17fe-4028-816f-0aabba88e6c0%2FUntitled.png?table=block&id=646ac2bd-b4c1-4181-a8ab-ae9603d6dcfb&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 질문작성자가 아닌 다른 사람이 답변을 채택하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F0f7e9c1a-e12f-4ed2-baad-d10e850ea06f%2FUntitled.png?table=block&id=a3beded9-274c-438f-84f1-5b602ed8551e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+
+</details>
+
+<details><summary>답변글 삭제
+</summary>
+
+**제약조건**
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F6aea1724-2d06-438d-b336-90ed6ef5040e%2FUntitled.png?table=block&id=e05715ff-70b9-41f6-9d4c-c2f75d839896&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+1. 정상적으로 삭제되는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F41632a3b-dac9-4085-8b9a-a2be96aa9913%2FUntitled.png?table=block&id=8155f43e-7556-4a20-833a-bd2e2bb04bb9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fae205dfb-aa78-41af-bcae-2bfe5c92c091%2FUntitled.png?table=block&id=7a6d618f-838f-47d1-b4e9-3e4e141224d4&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+2. 채택된 답변을 삭제하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1313cd75-dabd-44de-8ad1-df86811cccc6%2FUntitled.png?table=block&id=de1e5e33-ba9e-4638-b7e3-5875c322cb8f&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+3. 작성자가 아닌 다른 사람이 답변을 삭제하려는 경우
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F71568304-550a-44af-b47b-67709408edf6%2FUntitled.png?table=block&id=35809d9e-fa11-461a-a850-4dce63163768&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+</details>
+
 
 
 --- 
-<details><summary> 아이템 기능
-</summary>
+<details><summary>아이템 기능</summary>
 
-*Write here!*
+<details><summary>카테고리 별 회원마다 가지고 있는 아이템 조회</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F339805d1-3f66-42bd-97e9-5da7d6e8ad98%2FUntitled.png?table=block&id=49765cad-d7fc-4a18-a563-55861847808e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
-<details><summary> 결제 기능
-</summary>
+<details><summary>카테고리 별 상점 아이템, 금액 조회</summary>
 
-*Write here!*
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9a612a28-50cd-48f3-83aa-338d69611b90%2FUntitled.png?table=block&id=51d1e617-832b-422d-9a09-df92e508a45e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
+</details>
+
+<details><summary>결제 기능</summary>
+
+
+<details><summary>회원 별 온 충전 방법 조회</summary>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fd3af6c11-2f74-447c-ade4-ddc6bb624ee7%2FUntitled.png?table=block&id=a2fa3597-79c6-4388-9a76-64e021e5aa56&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 
+<details><summary>회원 별 온 충전 조회</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff465541b-ae7d-432a-8f22-a9f1b3ab4edb%2FUntitled.png?table=block&id=0f567d20-f17e-4965-b433-a4024a7e9721&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
 
 
+<details><summary>회원 아이템 결제 후, 남은 금액(온) 조회</summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1e42c9e6-57ed-4b74-8884-1d28684a1d71%2FUntitled.png?table=block&id=731bcbcf-611c-4b96-9d52-50c51e2765a0&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
 
 </details>
+
+
 
 
 
