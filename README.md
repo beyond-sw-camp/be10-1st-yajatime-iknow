@@ -20,7 +20,9 @@
 </summary>
 - ‘I_Know’는 일상 생활에서 사용하는 물건들을 사용할 때, 나만 아는 다른 사용법이나 정보들을 공유 하는 플랫폼입니다.
 <br></br>
+
 **[발을 씻자 다양한 사용 실제 사례]**
+
 <br></br>
 <img src="https://github.com/user-attachments/assets/61a72db0-9dcd-4a01-8fe3-3002e1540323" width="500" height="500">
 <br></br>
