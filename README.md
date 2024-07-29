@@ -99,7 +99,7 @@
 **<details><summary>💡플로우 차트🚀**
 </summary>
 
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F39644dbf-a893-453e-8fb4-73b3f2d81d72%2FUntitled.png?table=block&id=9c1dc1c5-8154-471e-bd08-18e777a4dfa5&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://github.com/user-attachments/assets/58ec2f13-e2db-4d72-a2e9-58bb13804cd3'>
 </details>
 
 
