@@ -831,11 +831,11 @@ SELECT * FROM item;
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F1395a554-e5ab-49cf-930c-33f28883b1df%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_161320.png?table=block&id=65a98018-abf7-4f19-90e0-f827b51bb55e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
-<details><summary>게시판 최신
+<details><summary>게시판 최신글
 </summary>
 
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fc579d5e0-9427-4b59-9ed6-4156144847a6%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_155522.png?table=block&id=e3c5ade2-b7e4-4fee-bea6-fb68a4c69152&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fc579d5e0-9427-4b59-9ed6-4156144847a6%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-07-26_155522.png?table=block&id=e3c5ade2-b7e4-4fee-bea6-fb68a4c69152&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fefdfe267-5d2a-44b4-ba4e-2afbee631153%2Ffec8284b-1d06-433a-a798-fe047be84cb0.png?table=block&id=2f27d2bb-94bb-41bb-b549-edcff3a71b92&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1230&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 
