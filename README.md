@@ -98,6 +98,8 @@
 
 **<details><summary>💡플로우 차트🚀**
 </summary>
+
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F39644dbf-a893-453e-8fb4-73b3f2d81d72%2FUntitled.png?table=block&id=9c1dc1c5-8154-471e-bd08-18e777a4dfa5&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 
@@ -956,6 +958,7 @@ VALUES  ('내용이 없는 제목', ' ', NOW(), NULL, 4, 2, FALSE, 150);
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fab9be3d8-e660-47f7-b5af-43f66f681748%2FUntitled.png?table=block&id=a751a4bd-d0fb-42cc-ba35-c7a427a4cda6&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'><img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff756bb9e-ca29-40dc-aded-ba7c721a5757%2FUntitled.png?table=block&id=00a882f6-9d80-4045-b94c-a4350be0eb2b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 3. 해당 질문글에 달린 답변이 채택된 경우<img src='https://notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fcb4cc0ab-1958-40a1-8071-340cd97c3646%2FUntitled.png?table=block&id=84ae3f3b-0e82-4ac7-8802-fa1375b4cb09&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 4. 다른 사람의 글을 수정하려는 경우<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F663fd698-0cc7-4a49-a9b8-ded5fe243217%2FUntitled.png?table=block&id=33d8e3d5-7821-445d-94a6-f308c80924e1&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+</details>
 
 <details><summary>질문글 삭제
 </summary>
