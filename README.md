@@ -356,7 +356,7 @@ CREATE TABLE report_record
 
 <details><summary> 테이블 정의서(구글시트 링크 첨부 예정)
 </summary>
-write here
+[테이블 정의서](https://docs.google.com/spreadsheets/d/1mNR-jP_g_l005ycf0eLs2BYmKMv2U5MiJfzwPXQLGcw/edit?usp=sharing)
 </details>
 
 </details>
