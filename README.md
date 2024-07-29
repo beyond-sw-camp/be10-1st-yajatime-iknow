@@ -46,7 +46,7 @@
 - “온”을 얻은 사용자는 생활 속 꿀팁 중 조회수, 좋아요 수, 공식 마크를 받은 질 좋은 꿀팁을 구매해 다양한 정보를 얻을 수 있습니다. 
 - 해당 프로젝트를 통해 사용자는 일상 생활 속 유용한 정보를 얻어 적용함으로써 삶의 질을 향상할 수 있으며, 나만 아는 꿀팁을 공유해 “온”을 얻음으로써 성취감을 느낄 수 있습니다.
 
-<details><summary>시스템 아키텍처
+**<details><summary>시스템 아키텍처**
 </summary>
 
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F8ee8c66d-28fb-4511-bafe-d09b8935a552%2FUntitled.png?table=block&id=5e1a16d1-c987-4bdc-9997-efb0ae2025b9&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
@@ -55,7 +55,7 @@
 
 
 
-<details><summary> 요구사항 명세서
+**<details><summary> 요구사항 명세서**
 </summary>
 
 [요구사항명세서](https://docs.google.com/spreadsheets/d/1O4BXN6PQ9PiJiGorgaywMlyViNvz0o1Q30b6aIjEWsw/edit?gid=751791096#gid=751791096)
