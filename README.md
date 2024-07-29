@@ -897,7 +897,7 @@ VALUES  ('내용이 없는 제목', ' ', NOW(), NULL, 4, 2, FALSE, 150);
 </details>
 
 
-<details><summary>게시들 조회</summary>
+<details><summary>게시글 조회</summary>
 1.팁 게시글에서 특정 키워드로 게시글 검색 가능
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fbae8d84b-8ebe-448d-b8c8-7d16dce3a14e%2FUntitled.png?table=block&id=4499595c-aa82-448a-979b-ec161680f57e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 2. 좋아요 순으로 게시글 정렬 가능
@@ -907,7 +907,7 @@ VALUES  ('내용이 없는 제목', ' ', NOW(), NULL, 4, 2, FALSE, 150);
 </details>
 
 
-<details><summary>게시들 수정</summary>
+<details><summary>게시글 수정</summary>
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fb6ccae5c-854f-4cee-9d21-06a018e4c406%2FUntitled.png?table=block&id=d1facb2e-144c-4f3a-9259-1ec5cecfba24&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 - 제약조건: : TIP 게시글의 제목 및 내용은 공백일 수 없다.
 
