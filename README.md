@@ -53,12 +53,6 @@
 </details>
 
 
-<details><summary>서비스 플로우 차트
-</summary>
-
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Ff80f575d-e4fe-4fcc-b28d-65764445a540%2FUntitled.png?table=block&id=318c22f5-df0f-412c-8ae5-5673ec2cc205&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
-
-</details>
 
 
 <details><summary> 요구사항 명세서
@@ -89,6 +83,9 @@
 - 구매한 아이템을 장착해 캐릭터를 꾸밀 수 있습니다.
 4. 고객 관리
 - 관리자가 고객 정보를 관리할 수 있습니다.
+
+  <img src='file:///C:/Users/Playdata/Desktop/yaza/%EC%82%AC%EC%A7%84/1.png'>
+  <img src='file:///C:/Users/Playdata/Desktop/yaza/%EC%82%AC%EC%A7%84/2.png'>
 </details>
 
 
@@ -367,11 +364,9 @@ CREATE TABLE report_record
 ```
 </details>
 
-<details><summary> 테이블 정의서(구글시트 링크 첨부 예정)
-</summary>
-  
+
 [테이블 정의서](https://docs.google.com/spreadsheets/d/1mNR-jP_g_l005ycf0eLs2BYmKMv2U5MiJfzwPXQLGcw/edit?usp=sharing)
-</details>
+
 
 </details>
 
@@ -1166,7 +1161,7 @@ DELIMITER ;
 
 ## 💡WBS
 <details><summary>WBS</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F57b8d247-450a-46cb-af77-2fdce6af5f4e%2FUntitled.png?table=block&id=a3daa78b-7523-45f9-8aa4-02f62ae6bc7d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1230&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fcebb5cc0-cacc-473d-a996-455148789f6f%2FUntitled.png?table=block&id=dbca048f-8615-48a9-a17a-742e7683123e&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 
