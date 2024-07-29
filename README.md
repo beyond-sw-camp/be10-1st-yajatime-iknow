@@ -84,8 +84,9 @@
 4. 고객 관리
 - 관리자가 고객 정보를 관리할 수 있습니다.
 
-  <img src='file:///C:/Users/Playdata/Desktop/yaza/%EC%82%AC%EC%A7%84/1.png'>
-  <img src='file:///C:/Users/Playdata/Desktop/yaza/%EC%82%AC%EC%A7%84/2.png'>
+
+  <img src='https://github.com/user-attachments/assets/6c193531-4db2-43fb-8370-629c5882c665'>
+  <img src='https://github.com/user-attachments/assets/cf4e2014-d05f-43b8-a98f-463e669a8e0b'>
 </details>
 
 
