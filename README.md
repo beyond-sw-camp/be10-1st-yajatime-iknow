@@ -104,10 +104,12 @@
 
 
 **<details><summary>💡유스케이스📜**
+</summary>
 <details><summary> 유스케이스
 </summary>
+
 <img src='https://github.com/user-attachments/assets/0413c369-b96a-42e6-b611-7da0754c76f6'>
-write here
+</details>
 </details>
 
 
