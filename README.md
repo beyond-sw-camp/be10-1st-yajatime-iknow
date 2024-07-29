@@ -763,7 +763,7 @@ SELECT * FROM item;
 </details>
 
 
- `신고 및 정지, 블라인드 기능`
+ #### 3. 신고 및 정지, 블라인드 기능
 
 - 기능 설명
   1. 게시글을 통해 사용자의 신고 (당한)횟수가 누적됨.
@@ -1161,7 +1161,7 @@ DELIMITER ;
 
 ## 💡WBS
 <details><summary>WBS</summary>
-<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F57b8d247-450a-46cb-af77-2fdce6af5f4e%2FUntitled.png?table=block&id=a3daa78b-7523-45f9-8aa4-02f62ae6bc7d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
+<img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F57b8d247-450a-46cb-af77-2fdce6af5f4e%2FUntitled.png?table=block&id=a3daa78b-7523-45f9-8aa4-02f62ae6bc7d&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=1230&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 
 
