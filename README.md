@@ -64,7 +64,7 @@
 <details><summary> 요구사항 명세서
 </summary>
 
-*Write here!*
+[요구사항명세서](https://docs.google.com/spreadsheets/d/1O4BXN6PQ9PiJiGorgaywMlyViNvz0o1Q30b6aIjEWsw/edit?gid=751791096#gid=751791096)
 </details>
 
 </details>
