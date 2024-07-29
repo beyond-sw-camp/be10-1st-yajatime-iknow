@@ -918,7 +918,7 @@ VALUES  ('내용이 없는 제목', ' ', NOW(), NULL, 4, 2, FALSE, 150);
 </details>
 
 
-<details><summary>게시들 삭제</summary>
+<details><summary>게시글 삭제</summary>
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2F9f07dc69-0223-4956-b93a-c1da853caf61%2FUntitled.png?table=block&id=7653663e-de8e-4137-b509-6ba77be8c59b&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 </details>
 </details>
@@ -965,7 +965,7 @@ DELIMITER ;
 <img src='https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6326fa9e-f7c6-4b90-ae17-ad470381ee5c%2Fde945362-7c55-49ef-a8f8-089c1121db9b%2FUntitled.png?table=block&id=c7ffe394-0183-44c5-83d6-fe96fcd2f6b0&spaceId=6326fa9e-f7c6-4b90-ae17-ad470381ee5c&width=2000&userId=40b11d14-da59-453a-8038-fe3a1fdf8c18&cache=v2'>
 
 ```
--- 3. 팁게시글 댓글 수정(Update)
+-- 3. 팁 게시글 댓글 수정(Update)
 -- 댓글 수정시 update_date 값을 현재 시간으로 변경
 -- 댓글 수정시 내용은 공백이어서는 안됨
 -- 자신이 작성한 댓글만 수정 가능하여야 함
